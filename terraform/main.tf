@@ -19,6 +19,10 @@ resource "aws_instance" "energize-airflow" {
   key_name      = "tope"
   vpc_security_group_ids = [aws_security_group.main.id]
 
+  root_block_device {
+    volume_size = 30
+  }
+
   tags = {
     Name = "airflow-instance"
   }
