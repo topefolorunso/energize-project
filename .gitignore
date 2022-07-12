@@ -1,0 +1,4 @@
+terraform/*
+!terraform/main.tf
+!terraform/README.md
+public_accessKeys.csv
