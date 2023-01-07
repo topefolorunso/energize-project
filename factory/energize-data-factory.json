@@ -1,0 +1,9 @@
+{
+	"name": "energize-data-factory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7892cfff-9b07-4a96-8815-c3fc294de59a",
+		"tenantId": "0d1b0863-b5b0-4695-b428-0bac3ce40435"
+	}
+}
