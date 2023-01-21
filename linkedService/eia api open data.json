@@ -1,8 +1,13 @@
 {
 	"name": "eia api open data",
 	"properties": {
+		"annotations": [],
 		"type": "RestService",
-		"annotations": []
+		"typeProperties": {
+			"url": "https://api.eia.gov/v2/total-energy/data/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
 	},
 	"monthname": "@{formatDateTime(utcNow(), 'yyyy-MM')}"
 }
