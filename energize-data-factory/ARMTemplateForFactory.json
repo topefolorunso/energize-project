@@ -126,7 +126,10 @@
 			"properties": {
 				"linkedServiceName": {
 					"referenceName": "eia api open data",
-					"type": "LinkedServiceReference"
+					"type": "LinkedServiceReference",
+					"parameters": {
+						"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+					}
 				},
 				"parameters": {
 					"api_key": {
@@ -157,6 +160,12 @@
 			"type": "Microsoft.DataFactory/factories/linkedServices",
 			"apiVersion": "2018-06-01",
 			"properties": {
+				"parameters": {
+					"api_key": {
+						"type": "string",
+						"defaultValue": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+					}
+				},
 				"annotations": [],
 				"type": "RestService",
 				"typeProperties": {
