@@ -1,0 +1,24 @@
+{
+	"name": "totalEnergyJSON",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "eia api open data",
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"frequency": "monthly"
+			}
+		},
+		"parameters": {
+			"api_key": {
+				"type": "string",
+				"defaultValue": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+			}
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"typeProperties": {
+			"relativeUrl": ""
+		},
+		"schema": []
+	}
+}
