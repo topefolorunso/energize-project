@@ -3,12 +3,7 @@
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "eia api open data",
-			"type": "LinkedServiceReference",
-			"parameters": {
-				"frequency": "monthly",
-				"start": "month",
-				"end": "month"
-			}
+			"type": "LinkedServiceReference"
 		},
 		"parameters": {
 			"api_key": {
