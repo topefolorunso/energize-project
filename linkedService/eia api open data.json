@@ -15,7 +15,8 @@
 				"defaultValue": "month"
 			},
 			"end": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "month"
 			}
 		},
 		"annotations": [],
