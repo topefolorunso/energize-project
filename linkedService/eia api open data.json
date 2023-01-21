@@ -1,27 +1,8 @@
 {
 	"name": "eia api open data",
 	"properties": {
-		"parameters": {
-			"frequency": {
-				"type": "string",
-				"defaultValue": "monthly"
-			},
-			"start": {
-				"type": "string",
-				"defaultValue": "month"
-			},
-			"end": {
-				"type": "string",
-				"defaultValue": "month"
-			}
-		},
-		"annotations": [],
 		"type": "RestService",
-		"typeProperties": {
-			"url": "https://api.eia.gov/v2/total-energy/data/",
-			"enableServerCertificateValidation": true,
-			"authenticationType": "Anonymous"
-		}
+		"annotations": []
 	},
-	"month": "@{formatDateTime(utcNow(), 'yyyy-MM')}"
+	"monthname": "@{formatDateTime(utcNow(), 'yyyy-MM')}"
 }
