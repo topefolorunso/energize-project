@@ -5,8 +5,14 @@
 		"factoryName": {
 			"value": "energize-data-factory"
 		},
+		"totalenergylake_accountKey": {
+			"value": ""
+		},
 		"eia api open data_properties_typeProperties_url": {
 			"value": "https://api.eia.gov/v2/total-energy/data/"
+		},
+		"totalenergylake_properties_typeProperties_url": {
+			"value": "https://energizestorageaccount.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""

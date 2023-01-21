@@ -7,9 +7,17 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "energize-data-factory"
 		},
+		"totalenergylake_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'totalenergylake'"
+		},
 		"eia api open data_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://api.eia.gov/v2/total-energy/data/"
+		},
+		"totalenergylake_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://energizestorageaccount.dfs.core.windows.net/"
 		}
 	},
 	"variables": {
@@ -46,6 +54,55 @@
 			"dependsOn": []
 		},
 		{
+			"name": "[concat(parameters('factoryName'), '/totalenergylake')]",
+			"type": "Microsoft.DataFactory/factories/linkedServices",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"parameters": {
+					"monthname": {
+						"type": "string",
+						"defaultValue": "month"
+					}
+				},
+				"annotations": [],
+				"type": "AzureBlobFS",
+				"typeProperties": {
+					"url": "[parameters('totalenergylake_properties_typeProperties_url')]",
+					"accountKey": {
+						"type": "SecureString",
+						"value": "[parameters('totalenergylake_accountKey')]"
+					}
+				}
+			},
+			"dependsOn": []
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/USTotalEnergy')]",
+			"type": "Microsoft.DataFactory/factories/datasets",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"linkedServiceName": {
+					"referenceName": "totalenergylake",
+					"type": "LinkedServiceReference",
+					"parameters": {
+						"monthname": "month"
+					}
+				},
+				"annotations": [],
+				"type": "Json",
+				"typeProperties": {
+					"location": {
+						"type": "AzureBlobFSLocation",
+						"fileSystem": "energizefilesystem"
+					}
+				},
+				"schema": {}
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/linkedServices/totalenergylake')]"
+			]
+		},
+		{
 			"name": "[concat(parameters('factoryName'), '/totalEnergyJSON')]",
 			"type": "Microsoft.DataFactory/factories/datasets",
 			"apiVersion": "2018-06-01",
@@ -74,6 +131,74 @@
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/linkedServices/eia api open data')]"
+			]
+		},
+		{
+			"name": "[concat(parameters('factoryName'), '/pipeline1')]",
+			"type": "Microsoft.DataFactory/factories/pipelines",
+			"apiVersion": "2018-06-01",
+			"properties": {
+				"activities": [
+					{
+						"name": "Copy data1",
+						"type": "Copy",
+						"dependsOn": [],
+						"policy": {
+							"timeout": "0.12:00:00",
+							"retry": 0,
+							"retryIntervalInSeconds": 30,
+							"secureOutput": false,
+							"secureInput": false
+						},
+						"userProperties": [],
+						"typeProperties": {
+							"source": {
+								"type": "RestSource",
+								"httpRequestTimeout": "00:01:40",
+								"requestInterval": "00.00:00:00.010",
+								"requestMethod": "GET",
+								"paginationRules": {
+									"supportRFC5988": "true"
+								}
+							},
+							"sink": {
+								"type": "JsonSink",
+								"storeSettings": {
+									"type": "AzureBlobFSWriteSettings"
+								},
+								"formatSettings": {
+									"type": "JsonWriteSettings"
+								}
+							},
+							"enableStaging": false
+						},
+						"inputs": [
+							{
+								"referenceName": "totalEnergyJSON",
+								"type": "DatasetReference",
+								"parameters": {
+									"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+								}
+							}
+						],
+						"outputs": [
+							{
+								"referenceName": "USTotalEnergy",
+								"type": "DatasetReference",
+								"parameters": {}
+							}
+						]
+					}
+				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
+				"annotations": []
+			},
+			"dependsOn": [
+				"[concat(variables('factoryId'), '/datasets/totalEnergyJSON')]",
+				"[concat(variables('factoryId'), '/datasets/USTotalEnergy')]"
 			]
 		}
 	]

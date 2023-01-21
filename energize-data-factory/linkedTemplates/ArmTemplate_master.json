@@ -7,9 +7,17 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "energize-data-factory"
 		},
+		"totalenergylake_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'totalenergylake'"
+		},
 		"eia api open data_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://api.eia.gov/v2/total-energy/data/"
+		},
+		"totalenergylake_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://energizestorageaccount.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"type": "string",
@@ -38,8 +46,14 @@
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
 					},
+					"totalenergylake_accountKey": {
+						"value": "[parameters('totalenergylake_accountKey')]"
+					},
 					"eia api open data_properties_typeProperties_url": {
 						"value": "[parameters('eia api open data_properties_typeProperties_url')]"
+					},
+					"totalenergylake_properties_typeProperties_url": {
+						"value": "[parameters('totalenergylake_properties_typeProperties_url')]"
 					}
 				}
 			},
