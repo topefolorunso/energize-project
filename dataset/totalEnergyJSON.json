@@ -5,7 +5,9 @@
 			"referenceName": "eia api open data",
 			"type": "LinkedServiceReference",
 			"parameters": {
-				"frequency": "monthly"
+				"frequency": "monthly",
+				"start": "month",
+				"end": "month"
 			}
 		},
 		"parameters": {
