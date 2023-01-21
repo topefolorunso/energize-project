@@ -1,6 +1,12 @@
 {
 	"name": "eia api open data",
 	"properties": {
+		"parameters": {
+			"api_key": {
+				"type": "string",
+				"defaultValue": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+			}
+		},
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
