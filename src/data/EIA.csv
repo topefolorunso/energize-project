@@ -1,0 +1,904 @@
+,period,msn,seriesDescription,value,unit
+0,2022-01,ARICBUS,Asphalt and Road Oil Consumed by the Industrial Sector in Trillion Btu,50.224,Trillion Btu
+1,2022-01,ARICPUS,Asphalt and Road Oil Consumed by the Industrial Sector in Thousand Barrels per Day,244.143,Thousand Barrels per Day
+2,2022-01,ARNFBUS,Asphalt & Road Oil Non-Combustion Consumption in Quadrillion Btu,0.050224,Quadrillion Btu
+3,2022-01,ARNFPUS,Asphalt & Road Oil Non-Combustion Consumption in Thousand Barrels per Day,244.143,Thousand Barrels per Day
+4,2022-01,ARTCBUS,Asphalt and Road Oil Product Supplied in Trillion Btu,50.224,Trillion Btu
+5,2022-01,ARTCPUS,Asphalt and Road Oil Product Supplied in Thousand Barrels per Day,244.143,Thousand Barrels per Day
+6,2022-01,AVACBUS,Aviation Gasoline Consumed by the Transportation Sector in Trillion Btu,1.146,Trillion Btu
+7,2022-01,AVACEUS,Aviation Gasoline Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.079,Million Metric Tons of Carbon Dioxide
+8,2022-01,AVACPUS,Aviation Gasoline Consumed by the Transportation Sector in Thousand Barrels per Day,7.323,Thousand Barrels per Day
+9,2022-01,AVTCBUS,Aviation Gasoline Product Supplied in Trillion Btu,1.146,Trillion Btu
+10,2022-01,AVTCEUS,Aviation Gasoline CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.079,Million Metric Tons of Carbon Dioxide
+11,2022-01,AVTCPUS,Aviation Gasoline Product Supplied in Thousand Barrels per Day,7.323,Thousand Barrels per Day
+12,2022-01,AVTCUUS,Average Refiner Price of Finished Aviation Gasoline to End Users in Dollars per Gallon Excluding Taxes,3.689,Dollars per Gallon Excluding Taxes
+13,2022-01,AVWHUUS,Average Refiner Price of Finished Aviation Gasoline for Resale in Dollars per Gallon Excluding Taxes,3.373,Dollars per Gallon Excluding Taxes
+14,2022-01,B1ACBUS,Renewable Diesel Fuel Consumed by the Transportation Sector  in Trillion Btu,15.974,Trillion Btu
+15,2022-01,B1FDBUS,Renewable Diesel Fuel Feedstock in Trillion Btu,Not Available,Trillion Btu
+16,2022-01,B1IMPUS,Renewable Diesel Fuel Imports in Thousand Barrels,632,Thousand Barrels
+17,2022-01,B1LCBUS,Renewable Diesel Fuel Losses and Co-products in Trillion Btu,Not Available,Trillion Btu
+18,2022-01,B1PRBUS,Renewable Diesel Fuel Production in Trillion Btu,14.462,Trillion Btu
+19,2022-01,B1PRMUS,Renewable Diesel Fuel Production in Million Gallons,110.562,Million Gallons
+20,2022-01,B1PRPUS,Renewable Diesel Fuel Production in Thousand Barrels,2632.417,Thousand Barrels
+21,2022-01,B1PSPUS,Renewable Diesel Fuel Stocks in Thousand Barrels,2709.717,Thousand Barrels
+22,2022-01,B1SCPUS,Renewable Diesel Fuel Stock Change in Thousand Barrels,356.965,Thousand Barrels
+23,2022-01,B1TCBUS,Renewable Diesel Fuel Consumption in Trillion Btu,15.974,Trillion Btu
+24,2022-01,B1TCMUS,Renewable Diesel Fuel Consumption in Million Gallons,122.113,Million Gallons
+25,2022-01,B1TCPUS,Renewable Diesel Fuel Consumption in Thousand Barrels,2907.452,Thousand Barrels
+26,2022-01,BDACBUS,Biodiesel Consumed by the Transportation Sector in Trillion Btu,10.556,Trillion Btu
+27,2022-01,BDEXPUS,Biodiesel Exports in Thousand Barrels,1124.268,Thousand Barrels
+28,2022-01,BDFDBUS,Biodiesel Feedstock in Trillion Btu,15.53,Trillion Btu
+29,2022-01,BDIMPUS,Biodiesel Imports in Thousand Barrels,388,Thousand Barrels
+30,2022-01,BDLCBUS,Biodiesel Losses and Co-products in Trillion Btu,0.212,Trillion Btu
+31,2022-01,BDNIPUS,Biodiesel Net Imports in Thousand Barrels,-736.268,Thousand Barrels
+32,2022-01,BDPRBUS,Biodiesel Production in Trillion Btu,15.318,Trillion Btu
+33,2022-01,BDPRMUS,Biodiesel Production in Million Gallons,120.053,Million Gallons
+34,2022-01,BDPRPUS,Biodiesel Production in Thousand Barrels,2858.398,Thousand Barrels
+35,2022-01,BDPSPUS,"Biodiesel Stocks, End of Period in Thousand Barrels",4336.585,Thousand Barrels
+36,2022-01,BDSCPUS,Biodiesel Stock Change in Thousand Barrels,152.301,Thousand Barrels
+37,2022-01,BDTCBUS,Biodiesel Consumption in Trillion Btu,10.556,Trillion Btu
+38,2022-01,BDTCEUS,Biodiesel CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.779,Million Metric Tons of Carbon Dioxide
+39,2022-01,BDTCMUS,Biodiesel Consumption in Million Gallons,82.733,Million Gallons
+40,2022-01,BDTCPUS,Biodiesel Consumption in Thousand Barrels,1969.829,Thousand Barrels
+41,2022-01,BFIMBUS,Biomass Imports in Quadrillion Btu,6.444,Quadrillion Btu
+42,2022-01,BFLCBUS,Biomass Losses and Co-products in the Industrial Sector in Trillion Btu,70.949,Trillion Btu
+43,2022-01,BFPRBUS,Biofuels Production in Trillion Btu,214.238,Trillion Btu
+44,2022-01,BFTCBUS,Biofuels Consumption in Trillion Btu,187.917,Trillion Btu
+45,2022-01,BMACBUS,Total Biomass Energy Consumed by the Transportation Sector in Trillion Btu,113.118,Trillion Btu
+46,2022-01,BMACEUS,Biomass Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,6.64,Million Metric Tons of Carbon Dioxide
+47,2022-01,BMCCBUS,Total Biomass Energy Consumed by the Commercial Sector in Trillion Btu,12.543,Trillion Btu
+48,2022-01,BMCCEUS,Biomass Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,1.11,Million Metric Tons of Carbon Dioxide
+49,2022-01,BMEIBUS,Total Biomass Energy Consumed by the Electric Power Sector in Trillion Btu,35.38,Trillion Btu
+50,2022-01,BMEIEUS,Biomass Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,3.26,Million Metric Tons of Carbon Dioxide
+51,2022-01,BMEXBUS,Biomass Exports in Quadrillion Btu,0.02616,Quadrillion Btu
+52,2022-01,BMICBUS,Total Biomass Energy Consumed by the Industrial Sector in Trillion Btu,198.409,Trillion Btu
+53,2022-01,BMICEUS,Biomass Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,11.87,Million Metric Tons of Carbon Dioxide
+54,2022-01,BMNIBUS,Biomass Net Imports in Quadrillion Btu,-0.019716,Quadrillion Btu
+55,2022-01,BMPRBUS,Total Biomass Energy Production in Trillion Btu,436.735,Trillion Btu
+56,2022-01,BMRCBUS,Biomass Energy Consumed by the Residential Sector in Trillion Btu,41.084,Trillion Btu
+57,2022-01,BMRCEUS,Biomass Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,3.854,Million Metric Tons of Carbon Dioxide
+58,2022-01,BMTCBUS,Total Biomass Energy Consumption in Trillion Btu,400.534,Trillion Btu
+59,2022-01,BMTCEUS,Biomass CO2 Emissions in Million Metric Tons of Carbon Dioxide,26.733,Million Metric Tons of Carbon Dioxide
+60,2022-01,BOACBUS,Other Biofuels Consumed by the Transportation Sector  in Trillion Btu,0.961,Trillion Btu
+61,2022-01,BOFDBUS,Other Biofuels Feedstock in Trillion Btu,Not Available,Trillion Btu
+62,2022-01,BOIMPUS,Other Biofuels Imports in Thousand Barrels,No Data Reported,Thousand Barrels
+63,2022-01,BOLCBUS,Other Biofuels Losses and Co-products in Trillion Btu,Not Available,Trillion Btu
+64,2022-01,BOPRBUS,Other Biofuels Production in Trillion Btu,1.65,Trillion Btu
+65,2022-01,BOPRMUS,Other Biofuels Production in Million Gallons,12.929,Million Gallons
+66,2022-01,BOPRPUS,Other Biofuels Production in Thousand Barrels,307.824,Thousand Barrels
+67,2022-01,BOPSPUS,Other Biofuels Stocks in Thousand Barrels,211.101,Thousand Barrels
+68,2022-01,BOSCPUS,Other Biofuels Stock Change in Thousand Barrels,128.555,Thousand Barrels
+69,2022-01,BOTCBUS,Other Biofuels Consumption in Trillion Btu,0.961,Trillion Btu
+70,2022-01,BOTCMUS,Other Biofuels Consumption in Million Gallons,7.529,Million Gallons
+71,2022-01,BOTCPUS,Other Biofuels Consumption in Thousand Barrels,179.269,Thousand Barrels
+72,2022-01,BTC9PUS,"Battery Storage Commercial Sector, Net Summer Capacity in Million Kilowatts",0.045,Million Kilowatts
+73,2022-01,BTGBPUS,"Battery Storage, Net Summer Capacity in Million Kilowatts",4.837,Million Kilowatts
+74,2022-01,BTI9PUS,"Battery Storage Industrial Sector, Net Summer Capacity in Million Kilowatts",0.003,Million Kilowatts
+75,2022-01,BTL9PUS,"Battery Storage Electric Power Sector, Net Summer Capacity in Million Kilowatts",4.788,Million Kilowatts
+76,2022-01,CCEXBUS,Coal Coke Exports in Quadrillion Btu,5.848,Quadrillion Btu
+77,2022-01,CCIMBUS,Coal Coke Imports in Quadrillion Btu,0.113,Quadrillion Btu
+78,2022-01,CCNIBUS,Coal Coke Net Imports in Quadrillion Btu,-0.005734,Quadrillion Btu
+79,2022-01,CCNIEUS,Coal Coke Net Imports CO2 Emissions in Million Metric Tons of Carbon Dioxide,-0.652,Million Metric Tons of Carbon Dioxide
+80,2022-01,CKTCEUS,"Coal, Including Coal Coke Net Imports, CO2 Emissions in Million Metric Tons of Carbon Dioxide",95.812,Million Metric Tons of Carbon Dioxide
+81,2022-01,CLACBUS,Coal Consumed by the Transportation Sector in Trillion Btu,0,Trillion Btu
+82,2022-01,CLACEUS,Coal Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0,Million Metric Tons of Carbon Dioxide
+83,2022-01,CLACPUS,Coal Consumed by the Transportation Sector in Thousand Short Tons,0,Thousand Short Tons
+84,2022-01,CLC1PUS,"Coal Consumption for Electricity Generation, Commercial Sector in Thousand Short Tons",7.577,Thousand Short Tons
+85,2022-01,CLC3PUS,"Coal Consumption for Electricity Generation and Useful Thermal Output, Commercial Sector in Thousand Short Tons",46.407,Thousand Short Tons
+86,2022-01,CLC4PUS,"Coal Consumed by the Commercial Sector, Other in Thousand Short Tons",46.71,Thousand Short Tons
+87,2022-01,CLC5PUS,"Electricity Net Generation From Coal, Commercial Sector in Million Kilowatthours",29.146,Million Kilowatthours
+88,2022-01,CLC9PUS,"Coal Commercial Sector, Net Summer Capacity in Million Kilowatts",0.078,Million Kilowatts
+89,2022-01,CLCCBUS,Coal Consumed by the Commercial Sector in Trillion Btu,1.713,Trillion Btu
+90,2022-01,CLCCEUS,Coal Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.165,Million Metric Tons of Carbon Dioxide
+91,2022-01,CLCCPUS,"Coal Consumed by the Commercial Sector, Total in Thousand Short Tons",93.117,Thousand Short Tons
+92,2022-01,CLECPUS,"Coal Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Short Tons",49560.777,Thousand Short Tons
+93,2022-01,CLEGPUS,"Electricity Net Generation From Coal, Electric Power Sector in Million Kilowatthours",86985.842,Million Kilowatthours
+94,2022-01,CLEIBUS,Coal Consumed by the Electric Power Sector in Trillion Btu,920.845,Trillion Btu
+95,2022-01,CLEIEUS,Coal Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,88.192,Million Metric Tons of Carbon Dioxide
+96,2022-01,CLEIPUS,"Coal Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Short Tons",48616.468,Thousand Short Tons
+97,2022-01,CLEKPUS,"Coal Stocks, Electric Power Sector, End of Period in Thousand Short Tons",84532.528,Thousand Short Tons
+98,2022-01,CLEPPUS,"Coal Consumption for Electricity Generation, All Sectors in Thousand Short Tons",48479.532,Thousand Short Tons
+99,2022-01,CLERDUS,"Average Cost of Coal Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",2.2,"Dollars per Million Btu, Including Taxes"
+100,2022-01,CLETPUS,"Electricity Net Generation From Coal, All Sectors in Million Kilowatthours",87471.282,Million Kilowatthours
+101,2022-01,CLEXBUS,Coal Exports in Quadrillion Btu,138.281,Quadrillion Btu
+102,2022-01,CLEXPUS,Coal Exports in Thousand Short Tons,5710.333,Thousand Short Tons
+103,2022-01,CLGBPUS,"Coal, Net Summer Capacity  in Million Kilowatts",208.986,Million Kilowatts
+104,2022-01,CLI1PUS,"Coal Consumption for Electricity Generation, Industrial Sector in Thousand Short Tons",148.209,Thousand Short Tons
+105,2022-01,CLI3PUS,"Coal Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Thousand Short Tons",897.902,Thousand Short Tons
+106,2022-01,CLI4PUS,"Coal Consumed by the Other Industrial Sector, Non-CHP in Thousand Short Tons",1306.595,Thousand Short Tons
+107,2022-01,CLI5PUS,"Electricity Net Generation From Coal, Industrial Sector in Million Kilowatthours",456.294,Million Kilowatthours
+108,2022-01,CLI9PUS,"Coal Industrial Sector, Net Summer Capacity in Million Kilowatts",1.422,Million Kilowatts
+109,2022-01,CLICBUS,Coal Consumed by the Industrial Sector in Trillion Btu,86.424,Trillion Btu
+110,2022-01,CLICEUS,Coal Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,8.107,Million Metric Tons of Carbon Dioxide
+111,2022-01,CLICPUS,"Coal Consumed by the Industrial Sector, Total in Thousand Short Tons",3636.858,Thousand Short Tons
+112,2022-01,CLIMBUS,Coal Imports in Quadrillion Btu,10.202,Quadrillion Btu
+113,2022-01,CLIMPUS,Coal Imports in Thousand Short Tons,502.665,Thousand Short Tons
+114,2022-01,CLKCPUS,"Coal Consumed by the Industrial Sector, Coke Plants in Thousand Short Tons",1432.361,Thousand Short Tons
+115,2022-01,CLL1PUS,"Coal Consumption for Electricity Generation, Electric Power Sector in Thousand Short Tons",48323.746,Thousand Short Tons
+116,2022-01,CLL9PUS,"Coal Electric Power Sector, Net Summer Capacity in Million Kilowatts",207.486,Million Kilowatts
+117,2022-01,CLLUPUS,Coal Losses and Unaccounted for in Thousand Short Tons,-423.518,Thousand Short Tons
+118,2022-01,CLNFBUS,Coal Non-Combustion Consumption in Quadrillion Btu,0.001328,Quadrillion Btu
+119,2022-01,CLNFPUS,Coal Non-Combustion Consumption in Thousand Short Tons,41.49,Thousand Short Tons
+120,2022-01,CLNIBUS,Coal Net Imports in Quadrillion Btu,-0.12808,Quadrillion Btu
+121,2022-01,CLNIPUS,Coal Net Imports in Thousand Short Tons,-5207.668,Thousand Short Tons
+122,2022-01,CLOCPUS,"Coal Consumed by the Other Industrial Sector, Total in Thousand Short Tons",2204.497,Thousand Short Tons
+123,2022-01,CLPRBUS,Coal Production in Quadrillion Btu,1000.013,Quadrillion Btu
+124,2022-01,CLPRPUS,Coal Production in Thousand Short Tons,49780.834,Thousand Short Tons
+125,2022-01,CLPSPUS,"Coal Stocks, Total, End of Period in Thousand Short Tons",108692.13,Thousand Short Tons
+126,2022-01,CLRCBUS,Coal Consumed by the Residential Sector in Trillion Btu,Not Available,Trillion Btu
+127,2022-01,CLRCEUS,Coal Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,Not Available,Million Metric Tons of Carbon Dioxide
+128,2022-01,CLRCPUS,Coal Consumed by the Residential Sector in Thousand Short Tons,Not Available,Thousand Short Tons
+129,2022-01,CLSCPUS,Coal Stock Change in Thousand Short Tons,-6663.615,Thousand Short Tons
+130,2022-01,CLSDPUS,"Coal Stocks, Producers and Distributors, End of Period in Thousand Short Tons",19804,Thousand Short Tons
+131,2022-01,CLSHPUS,"Coal Stocks, Residential and Commercial Sectors, End of Period in Thousand Short Tons",169.671,Thousand Short Tons
+132,2022-01,CLSIPUS,"Coal Stocks, Industrial Sector, Total, End of Period in Thousand Short Tons",4185.931,Thousand Short Tons
+133,2022-01,CLSJPUS,"Coal Stocks, End-Use Sectors Total, End of Period in Thousand Short Tons",4355.602,Thousand Short Tons
+134,2022-01,CLSKPUS,"Coal Stocks, Industrial Sector, Coke Plants, End of Period in Thousand Short Tons",1635.589,Thousand Short Tons
+135,2022-01,CLSOPUS,"Coal Stocks, Industrial Sector, Other, End of Period in Thousand Short Tons",2550.342,Thousand Short Tons
+136,2022-01,CLTCBUS,Coal Consumption in Quadrillion Btu,1011.909,Quadrillion Btu
+137,2022-01,CLTCPUS,"Coal Consumption, Total in Thousand Short Tons",52346.443,Thousand Short Tons
+138,2022-01,CODPUUS,Average Crude Oil Domestic First Purchase Price in Dollars per Barrel,80.33,Dollars per Barrel
+139,2022-01,COEXBUS,Crude Oil Exports in Quadrillion Btu,594.024,Quadrillion Btu
+140,2022-01,COEXPUS,Crude Oil Exports in Thousand Barrels per Day,3347.084,Thousand Barrels per Day
+141,2022-01,COFMUAQ,Average Free on Board Cost of Crude Oil Imports From Angola in Dollars per Barrel,Not Available,Dollars per Barrel
+142,2022-01,COFMUCL,Average Free on Board Cost of Crude Oil Imports From Colombia in Dollars per Barrel,Withheld,Dollars per Barrel
+143,2022-01,COFMUMX,Average Free on Board Cost of Crude Oil Imports From Mexico in Dollars per Barrel,75.35,Dollars per Barrel
+144,2022-01,COFMUNI,Average Free on Board Cost of Crude Oil Imports From Nigeria in Dollars per Barrel,Withheld,Dollars per Barrel
+145,2022-01,COFMUNT,Average Free on Board Cost of Crude Oil Imports From All Non-OPEC Countries in Dollars per Barrel,70.67,Dollars per Barrel
+146,2022-01,COFMUOP,Average Free on Board Cost of Crude Oil Imports From All OPEC Countries in Dollars per Barrel,88.47,Dollars per Barrel
+147,2022-01,COFMUPG,Average Free on Board Cost of Crude Oil Imports From Persian Gulf Nations in Dollars per Barrel,88.59,Dollars per Barrel
+148,2022-01,COFMUSA,Average Free on Board Cost of Crude Oil Imports From Saudi Arabia in Dollars per Barrel,93.17,Dollars per Barrel
+149,2022-01,COFMUUK,Average Free on Board Cost of Crude Oil Imports From United Kingdom in Dollars per Barrel,Not Available,Dollars per Barrel
+150,2022-01,COFMUUS,Average Free on Board Cost of Crude Oil Imports in Dollars per Barrel,72.91,Dollars per Barrel
+151,2022-01,COFMUVE,Average Free on Board Cost of Crude Oil Imports From Venezuela in Dollars per Barrel,Not Available,Dollars per Barrel
+152,2022-01,COIMBUS,Crude Oil Imports in Quadrillion Btu,1200.495,Quadrillion Btu
+153,2022-01,COIMPUS,"Crude Oil Imports, Total in Thousand Barrels per Day",6383,Thousand Barrels per Day
+154,2022-01,COIMUAQ,Average Landed Cost of Crude Oil Imports From Angola in Dollars per Barrel,Not Available,Dollars per Barrel
+155,2022-01,COIMUCL,Average Landed Cost of Crude Oil Imports From Colombia in Dollars per Barrel,80.05,Dollars per Barrel
+156,2022-01,COIMUCN,Average Landed Cost of Crude Oil Imports From Canada in Dollars per Barrel,70.59,Dollars per Barrel
+157,2022-01,COIMUMX,Average Landed Cost of Crude Oil Imports From Mexico in Dollars per Barrel,76.61,Dollars per Barrel
+158,2022-01,COIMUNI,Average Landed Cost of Crude Oil Imports From Nigeria in Dollars per Barrel,Withheld,Dollars per Barrel
+159,2022-01,COIMUNT,Average Landed Cost of Crude Oil Imports From All Non-OPEC Countries in Dollars per Barrel,73.64,Dollars per Barrel
+160,2022-01,COIMUOP,Average Landed Cost of Crude Oil Imports From All OPEC Countries in Dollars per Barrel,90.76,Dollars per Barrel
+161,2022-01,COIMUPG,Average Landed Cost of Crude Oil Imports From Persian Gulf Nations in Dollars per Barrel,91.69,Dollars per Barrel
+162,2022-01,COIMUSA,Average Landed Cost of Crude Oil Imports From Saudi Arabia in Dollars per Barrel,99.72,Dollars per Barrel
+163,2022-01,COIMUUK,Average Landed Cost of Crude Oil Imports From United Kingdom in Dollars per Barrel,Not Available,Dollars per Barrel
+164,2022-01,COIMUUS,Average Landed Cost of Crude Oil Imports in Dollars per Barrel,76.46,Dollars per Barrel
+165,2022-01,COIMUVE,Average Landed Cost of Crude Oil Imports From Venezuela in Dollars per Barrel,Not Available,Dollars per Barrel
+166,2022-01,CONIBUS,Crude Oil Net Imports in Quadrillion Btu,0.606472,Quadrillion Btu
+167,2022-01,COPSPUS,"Crude Oil Stocks, Total, End of Period in Million Barrels",1002.59,Million Barrels
+168,2022-01,COQIPUS,"Crude Oil Imports, Strategic Petroleum Reserve in Thousand Barrels per Day",No Data Reported,Thousand Barrels per Day
+169,2022-01,CORIPUS,Crude Oil Refinery and Blender Net Input in Thousand Barrels per Day,15451,Thousand Barrels per Day
+170,2022-01,COSQPUS,"Crude Oil Stocks, Strategic Petroleum Reserve, End of Period in Million Barrels",588.317,Million Barrels
+171,2022-01,COSXPUS,"Crude Oil Stocks, Non-Strategic Petroleum Reserve, End of Period in Million Barrels",414.273,Million Barrels
+172,2022-01,CPUCIUS,Consumer Price Index (Urban) in Index 1982-1984 = 100,281.148,Index 1982-1984 = 100
+173,2022-01,D2RCAUS,Average Cost of Residential Heating Oil in Dollars per Million Btu,Not Available,Dollars per Million Btu
+174,2022-01,D2RCOUS,Average Cost of Residential Heating Oil in Dollars per Gallon,Not Available,Dollars per Gallon
+175,2022-01,D2TCUUS,Average Refiner Price of No. 2 Fuel Oil to End Users in Dollars per Gallon Excluding Taxes,3.169,Dollars per Gallon Excluding Taxes
+176,2022-01,D2WHUUS,Average Refiner Price of No. 2 Fuel Oil for Resale in Dollars per Gallon Excluding Taxes,2.438,Dollars per Gallon Excluding Taxes
+177,2022-01,DFACBUS,Distillate Fuel Oil Consumed by the Transportation Sector in Trillion Btu,490.823,Trillion Btu
+178,2022-01,DFACPUS,Distillate Fuel Oil Consumed by the Transportation Sector in Thousand Barrels per Day,2747.257,Thousand Barrels per Day
+179,2022-01,DFCCBUS,Distillate Fuel Oil Consumed by the Commercial Sector in Trillion Btu,45.189,Trillion Btu
+180,2022-01,DFCCEUS,Distillate Fuel Oil Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,3.35,Million Metric Tons of Carbon Dioxide
+181,2022-01,DFCCPUS,Distillate Fuel Oil Consumed by the Commercial Sector in Thousand Barrels per Day,252.635,Thousand Barrels per Day
+182,2022-01,DFEKPUS,"Distillate Fuel Oil Stocks, Electric Power Sector, End of Period in Thousand Barrels",17457.265,Thousand Barrels
+183,2022-01,DFEXPUS,Distillate Fuel Oil Exports in Thousand Barrels per Day,964.59,Thousand Barrels per Day
+184,2022-01,DFICBUS,Distillate Fuel Oil Consumed by the Industrial Sector in Trillion Btu,111.522,Trillion Btu
+185,2022-01,DFICEUS,Distillate Fuel Oil Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,8.249,Million Metric Tons of Carbon Dioxide
+186,2022-01,DFICPUS,Distillate Fuel Oil Consumed by the Industrial Sector in Thousand Barrels per Day,623.482,Thousand Barrels per Day
+187,2022-01,DFIMPUS,Distillate Fuel Oil Imports in Thousand Barrels per Day,241.806,Thousand Barrels per Day
+188,2022-01,DFONUUS,On-Highway Diesel Fuel Average Price in Dollars per Gallon Including Taxes,3.724,Dollars per Gallon Including Taxes
+189,2022-01,DFPSPUS,"Distillate Fuel Oil Stocks, End of Period in Million Barrels",124.989,Million Barrels
+190,2022-01,DFRCBUS,Distillate Fuel Oil Consumed by the Residential Sector in Trillion Btu,66.782,Trillion Btu
+191,2022-01,DFRCEUS,Distillate Fuel Oil Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,4.951,Million Metric Tons of Carbon Dioxide
+192,2022-01,DFRCPUS,Distillate Fuel Oil Consumed by the Residential Sector in Thousand Barrels per Day,373.358,Thousand Barrels per Day
+193,2022-01,DFROPUS,Distillate Fuel Oil Refinery and Blender Net Production in Thousand Barrels per Day,4644.032,Thousand Barrels per Day
+194,2022-01,DFTCBUS,Distillate Fuel Oil Product Supplied in Trillion Btu,729.309,Trillion Btu
+195,2022-01,DFTCPUS,Distillate Fuel Oil Product Supplied in Thousand Barrels per Day,4080.547,Thousand Barrels per Day
+196,2022-01,DHTWPUS,"Wells Drilled, Dry in Number",110,Number
+197,2022-01,DKECPUS,"Distillate Fuel Oil Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Barrels",2762.025,Thousand Barrels
+198,2022-01,DKEIBUS,Distillate Fuel Oil Consumed by the Electric Power Sector in Trillion Btu,14.992,Trillion Btu
+199,2022-01,DKEIEUS,"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",1.112,Million Metric Tons of Carbon Dioxide
+200,2022-01,DKEIPUS,"Distillate Fuel Oil Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Barrels",2598.295,Thousand Barrels
+201,2022-01,DKEIZUS,Distillate Fuel Oil Consumed by the Electric Power Sector in Thousand Barrels per Day,83.816,Thousand Barrels per Day
+202,2022-01,DKEPPUS,"Distillate Fuel Oil Consumption for Electricity Generation, All Sectors in Thousand Barrels",2605.299,Thousand Barrels
+203,2022-01,DKERDUS,"Average Cost of Distillate Fuel Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",19.99,"Dollars per Million Btu, Including Taxes"
+204,2022-01,DKL1PUS,"Distillate Fuel Oil Consumption for Electricity Generation, Electric Power Sector in Thousand Barrels",2561.78,Thousand Barrels
+205,2022-01,DMACEUS,"Distillate Fuel Oil, Excluding Biodiesel, Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",35.777,Million Metric Tons of Carbon Dioxide
+206,2022-01,DMTCEUS,"Distillate Fuel Oil, Excluding Biodiesel, CO2 Emissions in Million Metric Tons of Carbon Dioxide",53.439,Million Metric Tons of Carbon Dioxide
+207,2022-01,DSTCUUS,Average Refiner Price of No. 2 Diesel Fuel to End Users in Dollars per Gallon Excluding Taxes,2.648,Dollars per Gallon Excluding Taxes
+208,2022-01,DSWHUUS,Average Refiner Price of No. 2 Diesel Fuel for Resale in Dollars per Gallon Excluding Taxes,2.55,Dollars per Gallon Excluding Taxes
+209,2022-01,ELC5PUS,"Electricity Net Generation Total (including from sources not shown), Commercial Sector in Million Kilowatthours",1145.378,Million Kilowatthours
+210,2022-01,ELC9PUS,"Total Commercial Sector, Net Summer Capacity in Million Kilowatts",4.779,Million Kilowatts
+211,2022-01,ELDUPUS,Electricity Direct Use in Million Kilowatthours,12580.514,Million Kilowatthours
+212,2022-01,ELEGPUS,"Electricity Net Generation Total (including from sources not shown), Electric Power Sector in Million Kilowatthours",363659.369,Million Kilowatthours
+213,2022-01,ELETPUS,"Electricity Net Generation Total (including from sources not shown), All Sectors in Million Kilowatthours",377493.245,Million Kilowatthours
+214,2022-01,ELEXBUS,Electricity Exports in Quadrillion Btu,4.979,Quadrillion Btu
+215,2022-01,ELEXPUS,Electricity Exports in Billion Kilowatthours,1459,Billion Kilowatthours
+216,2022-01,ELGBPUS,"Total Electric, Net Summer Capacity in Million Kilowatts",1147.072,Million Kilowatts
+217,2022-01,ELI5PUS,"Electricity Net Generation Total (including from sources not shown), Industrial Sector in Million Kilowatthours",12688.498,Million Kilowatthours
+218,2022-01,ELI9PUS,"Total Industrial Sector, Net Summer Capacity in Million Kilowatts",26.771,Million Kilowatts
+219,2022-01,ELIMBUS,Electricity Imports in Quadrillion Btu,15.208,Quadrillion Btu
+220,2022-01,ELIMPUS,Electricity Imports in Billion Kilowatthours,4457,Billion Kilowatthours
+221,2022-01,ELL9PUS,"Total Electric Power Sector, Net Summer Capacity in Million Kilowatts",1115.523,Million Kilowatts
+222,2022-01,ELNIBUS,Electric Power Sector Electricity Net Imports in Trillion Btu,10.229,Trillion Btu
+223,2022-01,ELNIPUS,Electricity Net Imports in Billion Kilowatthours,2998,Billion Kilowatthours
+224,2022-01,ELTCPUS,"Electricity End Use, Total in Million Kilowatthours",349814.828,Million Kilowatthours
+225,2022-01,ELUNPUS,Transmission and Distribution Losses and Unaccounted for in Billion Kilowatthours,30676,Billion Kilowatthours
+226,2022-01,EMACBUS,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector in Trillion Btu",85.627,Trillion Btu
+227,2022-01,EMCCBUS,"Fuel Ethanol, Excluding Denaturant, Consumed by the Commercial Sector in Trillion Btu",2.232,Trillion Btu
+228,2022-01,EMFDBUS,"Fuel Ethanol, Excluding Denaturant, Feedstock in Trillion Btu",182.597,Trillion Btu
+229,2022-01,EMICBUS,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector in Trillion Btu",1.618,Trillion Btu
+230,2022-01,EMLCBUS,"Fuel Ethanol, Excluding Denaturant, Losses and Co-products in Trillion Btu",70.738,Trillion Btu
+231,2022-01,EMTCBUS,"Fuel Ethanol, Excluding Denaturant, Consumption in Trillion Btu",89.477,Trillion Btu
+232,2022-01,EMTCEUS,"Fuel Ethanol, Excluding Denaturant, CO2 Emissions in Million Metric Tons of Carbon Dioxide",6.124,Million Metric Tons of Carbon Dioxide
+233,2022-01,ENDNPUS,Fuel Ethanol Denaturant in Thousand Barrels,599.603,Thousand Barrels
+234,2022-01,ENNIPUS,Fuel Ethanol Net Imports in Thousand Barrels,-2695.732,Thousand Barrels
+235,2022-01,ENPRBUS,Fuel Ethanol Production in Trillion Btu,114.496,Trillion Btu
+236,2022-01,ENPRMUS,Fuel Ethanol Production in Million Gallons,1352.699,Million Gallons
+237,2022-01,ENPRPUS,Fuel Ethanol Production in Thousand Barrels,32207.129,Thousand Barrels
+238,2022-01,ENPSPUS,"Fuel Ethanol Stocks, End of Period in Thousand Barrels",25759.311,Thousand Barrels
+239,2022-01,ENSCPUS,Fuel Ethanol Stock Change in Thousand Barrels,3748.596,Thousand Barrels
+240,2022-01,ENTCBUS,Fuel Ethanol Consumption in Trillion Btu,91.587,Trillion Btu
+241,2022-01,ENTCMUS,Fuel Ethanol Consumption in Million Gallons,1082.038,Million Gallons
+242,2022-01,ENTCPUS,Fuel Ethanol Consumption in Thousand Barrels,25762.801,Thousand Barrels
+243,2022-01,ESACBUS,Electricity Sales to Ultimate Customers in the Transportation Sector in Trillion Btu,1.926,Trillion Btu
+244,2022-01,ESACEUS,Transportation Share of Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.242,Million Metric Tons of Carbon Dioxide
+245,2022-01,ESACPUS,"Electricity Sales to Ultimate Customers, Transportation in Million Kilowatthours",564.611,Million Kilowatthours
+246,2022-01,ESACUUS,"Average Price of Electricity to Ultimate Customers, Transportation in Cents per Kilowatthour,  Including Taxes",10.91,"Cents per Kilowatthour,  Including Taxes"
+247,2022-01,ESCCBUS,Electricity Sales to Ultimate Customers in the Commercial Sector in Trillion Btu,383.171,Trillion Btu
+248,2022-01,ESCCEUS,Commercial Share of Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,48.09,Million Metric Tons of Carbon Dioxide
+249,2022-01,ESCCPUS,"Electricity Sales to Ultimate Customers, Commercial in Million Kilowatthours",112300.898,Million Kilowatthours
+250,2022-01,ESCMUUS,"Average Price of Electricity to Ultimate Customers, Commercial in Cents per Kilowatthour,  Including Taxes",11.35,"Cents per Kilowatthour,  Including Taxes"
+251,2022-01,ESICBUS,Electricity Sales to Ultimate Customers in the Industrial Sector in Trillion Btu,284.232,Trillion Btu
+252,2022-01,ESICEUS,Industrial Share of Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,35.672,Million Metric Tons of Carbon Dioxide
+253,2022-01,ESICPUS,"Electricity Sales to Ultimate Customers, Industrial in Million Kilowatthours",83303.666,Million Kilowatthours
+254,2022-01,ESICUUS,"Average Price of Electricity to Ultimate Customers, Industrial in Cents per Kilowatthour,  Including Taxes",7.3,"Cents per Kilowatthour,  Including Taxes"
+255,2022-01,ESOTUUS,"Average Price of Electricity to Ultimate Customers, Other in Cents per Kilowatthour,  Including Taxes",Not Applicable,"Cents per Kilowatthour,  Including Taxes"
+256,2022-01,ESRCAUS,Average Cost of Residential Electricity in Dollars per Million Btu,14.292,Dollars per Million Btu
+257,2022-01,ESRCBUS,Electricity Sales to Ultimate Customers in the Residential Sector in Trillion Btu,481.314,Trillion Btu
+258,2022-01,ESRCEUS,Residential Share of Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,60.407,Million Metric Tons of Carbon Dioxide
+259,2022-01,ESRCOUS,Average Cost of Residential Electricity in Cents per Kilowatthour,4.876,Cents per Kilowatthour
+260,2022-01,ESRCPUS,"Electricity Sales to Ultimate Customers, Residential in Million Kilowatthours",141065.139,Million Kilowatthours
+261,2022-01,ESRCUUS,"Average Price of Electricity to Ultimate Customers, Residential in Cents per Kilowatthour,  Including Taxes",13.71,"Cents per Kilowatthour,  Including Taxes"
+262,2022-01,ESTCBUS,Electricity Sales to Ultimate Customers in the End-Use Sectors in Trillion Btu,1150.643,Trillion Btu
+263,2022-01,ESTCPUS,"Electricity Sales to Ultimate Customers, Total in Million Kilowatthours",337234.314,Million Kilowatthours
+264,2022-01,ESTCUUS,"Average Price of Electricity to Ultimate Customers, Total in Cents per Kilowatthour,  Including Taxes",11.34,"Cents per Kilowatthour,  Including Taxes"
+265,2022-01,FFACBUS,Total Fossil Fuels Consumed by the Transportation Sector in Trillion Btu,2042.643,Trillion Btu
+266,2022-01,FFC9PUS,"Fossil Fuels Commercial Sector, Net Summer Capacity in Million Kilowatts",3.27,Million Kilowatts
+267,2022-01,FFCCBUS,Total Fossil Fuels Consumed by the Commercial Sector in Trillion Btu,680.597,Trillion Btu
+268,2022-01,FFEIBUS,Total Fossil Fuels Consumed by the Electric Power Sector in Trillion Btu,1948.068,Trillion Btu
+269,2022-01,FFERDUS,"Average Cost of Fossil Fuel Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",4.68,"Dollars per Million Btu, Including Taxes"
+270,2022-01,FFGBPUS,"Fossil Fuels, Net Summer Capacity in Million Kilowatts",730.898,Million Kilowatts
+271,2022-01,FFI9PUS,"Fossil Fuels Industrial Sector, Net Summer Capacity in Million Kilowatts",19.588,Million Kilowatts
+272,2022-01,FFICBUS,Total Fossil Fuels Consumed by the Industrial Sector in Trillion Btu,1847.963,Trillion Btu
+273,2022-01,FFL9PUS,"Fossil Fuels Electric Power Sector, Net Summer Capacity in Million Kilowatts",708.041,Million Kilowatts
+274,2022-01,FFPRBUS,Total Fossil Fuels Production in Quadrillion Btu,6673.278,Quadrillion Btu
+275,2022-01,FFRCBUS,Total Fossil Fuels Consumed by the Residential Sector in Trillion Btu,1155.484,Trillion Btu
+276,2022-01,FFTCBUS,Total Fossil Fuels Consumption in Quadrillion Btu,7675.3,Quadrillion Btu
+277,2022-01,GEC9PUS,"Geothermal Commercial Sector, Net Summer Capacity  in Million Kilowatts",0.074,Million Kilowatts
+278,2022-01,GECCBUS,Geothermal Energy Consumed by the Commercial Sector in Trillion Btu,2.173,Trillion Btu
+279,2022-01,GEEGBUS,Geothermal Energy Consumed by the Electric Power Sector in Trillion Btu,13.348,Trillion Btu
+280,2022-01,GEEGPUS,"Electricity Net Generation From Geothermal, Electric Power Sector in Million Kilowatthours",1509.475,Million Kilowatthours
+281,2022-01,GEEIEUS,Geothermal Energy Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.04,Million Metric Tons of Carbon Dioxide
+282,2022-01,GEETPUS,"Electricity Net Generation From Geothermal, All Sectors in Million Kilowatthours",1566.027,Million Kilowatthours
+283,2022-01,GEGBPUS,"Geothermal, Net Summer Capacity in Million Kilowatts",2.597,Million Kilowatts
+284,2022-01,GEI9PUS,"Geothermal Industrial Sector, Net Summer Capacity  in Million Kilowatts",No Data Reported,Million Kilowatts
+285,2022-01,GEICBUS,Geothermal Energy Consumed by the Industrial Sector in Trillion Btu,0.357,Trillion Btu
+286,2022-01,GEL9PUS,"Geothermal Electric Power Sector, Net Summer Capacity  in Million Kilowatts",2.523,Million Kilowatts
+287,2022-01,GERCBUS,Geothermal Energy Consumed by the Residential Sector in Trillion Btu,3.363,Trillion Btu
+288,2022-01,GETCBUS,Geothermal Energy Consumption/Production in Trillion Btu,19.242,Trillion Btu
+289,2022-01,HLACBUS,Propane Consumed by the Transportation Sector in Trillion Btu,0.388,Trillion Btu
+290,2022-01,HLACEUS,HGL Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.024,Million Metric Tons of Carbon Dioxide
+291,2022-01,HLACPUS,Propane Consumed by the Transportation Sector in Thousand Barrels per Day,3.258,Thousand Barrels per Day
+292,2022-01,HLCCBUS,Propane Consumed by the Commercial Sector in Trillion Btu,30.465,Trillion Btu
+293,2022-01,HLCCEUS,HGL Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,1.916,Million Metric Tons of Carbon Dioxide
+294,2022-01,HLCCPUS,Propane Consumed by the Commercial Sector in Thousand Barrels per Day,255.857,Thousand Barrels per Day
+295,2022-01,HLEXPUS,Total Hydrocarbon Gas Liquids Exports in Thousand Barrels per Day,2283.618,Thousand Barrels per Day
+296,2022-01,HLICBUS,Total Hydrocarbon Gas Liquids Consumed by the Industrial Sector in Trillion Btu,307.06,Trillion Btu
+297,2022-01,HLICEUS,HGL Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,5.356,Million Metric Tons of Carbon Dioxide
+298,2022-01,HLICPUS,Total Hydrocarbon Gas Liquids Consumed by the Industrial Sector in Thousand Barrels per Day,3068.534,Thousand Barrels per Day
+299,2022-01,HLIMPUS,Total Hydrocarbon Gas Liquids Imports in Thousand Barrels per Day,220.161,Thousand Barrels per Day
+300,2022-01,HLNFBUS,Hydrocarbon Gas Liquids Non-Combustion Consumption in Quadrillion Btu,0.277144,Quadrillion Btu
+301,2022-01,HLNFPUS,Hydrocarbon Gas Liquids Non-Combustion Consumption in Thousand Barrels per Day,2839.033,Thousand Barrels per Day
+302,2022-01,HLPSPUS,Total Hydrocarbon Gas Liquids Stocks in Million Barrels,161.101,Million Barrels
+303,2022-01,HLRCBUS,Propane Consumed by the Residential Sector in Trillion Btu,89.714,Trillion Btu
+304,2022-01,HLRCEUS,HGL Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,5.642,Million Metric Tons of Carbon Dioxide
+305,2022-01,HLRCPUS,Propane Consumed by the Residential Sector in Thousand Barrels per Day,753.449,Thousand Barrels per Day
+306,2022-01,HLROPUS,Total Hydrocarbon Gas Liquids Refinery and Blender Net Production in Thousand Barrels per Day,379.484,Thousand Barrels per Day
+307,2022-01,HLTCBUS,Total Hydrocarbon Gas Liquids Product Supplied in Trillion Btu,427.627,Trillion Btu
+308,2022-01,HLTCEUS,Hydrocarbon Gas Liquids CO2 Emissions in Million Metric Tons of Carbon Dioxide,12.938,Million Metric Tons of Carbon Dioxide
+309,2022-01,HLTCPUS,Total Hydrocarbon Gas Liquids Product Supplied in Thousand Barrels per Day,4081.099,Thousand Barrels per Day
+310,2022-01,HPC9PUS,"Hydroelectric Pumped Storage Commercial Sector, Net Summer Capacity in Million Kilowatts",No Data Reported,Million Kilowatts
+311,2022-01,HPEGPUS,"Electricity Net Generation From Hydroelectric Pumped Storage, Electric Power Sector in Million Kilowatthours",-493.31,Million Kilowatthours
+312,2022-01,HPETPUS,"Electricity Net Generation From Hydroelectric Pumped Storage, All Sectors in Million Kilowatthours",-493.31,Million Kilowatthours
+313,2022-01,HPGBPUS,"Hydroelectric Pumped Storage, Net Summer Capacity in Million Kilowatts",23.008,Million Kilowatts
+314,2022-01,HPI9PUS,"Hydroelectric Pumped Storage Industrial Sector, Net Summer Capacity in Million Kilowatts",No Data Reported,Million Kilowatts
+315,2022-01,HPL9PUS,"Hydroelectric Pumped Storage Electric Power Sector, Net Summer Capacity in Million Kilowatts",23.008,Million Kilowatts
+316,2022-01,HRTWPUS,"Crude Oil, Natural Gas, and Dry Wells Drilled, Horizontal and Directional Trajectory in Number",931,Number
+317,2022-01,HVC9PUS,"Conventional Hydroelectric Power Commercial Sector, Net Summer Capacity in Million Kilowatts",0.085,Million Kilowatts
+318,2022-01,HVCCBUS,Conventional Hydroelectric Power Consumed by the Commercial Sector in Trillion Btu,0.258,Trillion Btu
+319,2022-01,HVEGBUS,Conventional Hydroelectric Power Consumed by the Electric Power Sector in Trillion Btu,231.475,Trillion Btu
+320,2022-01,HVEGPUS,"Electricity Net Generation From Conventional Hydroelectric Power, Electric Power Sector in Million Kilowatthours",26176.039,Million Kilowatthours
+321,2022-01,HVETPUS,"Electricity Net Generation From Conventional Hydroelectric Power, All Sectors in Million Kilowatthours",26288.416,Million Kilowatthours
+322,2022-01,HVGBPUS,"Conventional Hydroelectric Power, Net Summer Capacity in Million Kilowatts",79.926,Million Kilowatts
+323,2022-01,HVI5PUS,"Electricity Net Generation From Hydroelectric Power, Industrial Sector in Million Kilowatthours",83.242,Million Kilowatthours
+324,2022-01,HVI9PUS,"Conventional Hydroelectric Power Industrial Sector, Net Summer Capacity in Million Kilowatts",0.214,Million Kilowatts
+325,2022-01,HVICBUS,Conventional Hydroelectric Power Consumed by the Industrial Sector in Trillion Btu,0.736,Trillion Btu
+326,2022-01,HVL9PUS,"Conventional Hydroelectric Power Electric Power Sector, Net Summer Capacity in Million Kilowatts",79.627,Million Kilowatts
+327,2022-01,HVTCBUS,Hydroelectric Power Consumption/Production in Trillion Btu,232.468,Trillion Btu
+328,2022-01,JFACBUS,Jet Fuel Consumed by the Transportation Sector in Trillion Btu,250.102,Trillion Btu
+329,2022-01,JFACEUS,Jet Fuel Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,18.066,Million Metric Tons of Carbon Dioxide
+330,2022-01,JFACPUS,Jet Fuel Consumed by the Transportation Sector in Thousand Barrels per Day,1422.896,Thousand Barrels per Day
+331,2022-01,JFEXPUS,Jet Fuel Exports in Thousand Barrels per Day,131.669,Thousand Barrels per Day
+332,2022-01,JFIMPUS,Jet Fuel Imports in Thousand Barrels per Day,127.548,Thousand Barrels per Day
+333,2022-01,JFPSPUS,"Jet Fuel Stocks, End of Period in Million Barrels",38.583,Million Barrels
+334,2022-01,JFROPUS,Jet Fuel Refinery and Blender Net Production in Thousand Barrels per Day,1516.548,Thousand Barrels per Day
+335,2022-01,JFTCBUS,Jet Fuel Product Supplied in Trillion Btu,250.102,Trillion Btu
+336,2022-01,JFTCEUS,Jet Fuel CO2 Emissions in Million Metric Tons of Carbon Dioxide,18.066,Million Metric Tons of Carbon Dioxide
+337,2022-01,JFTCPUS,Jet Fuel Product Supplied in Thousand Barrels per Day,1422.896,Thousand Barrels per Day
+338,2022-01,JKTCUUS,Average Refiner Price of Kerosene-Type Jet Fuel to End Users in Dollars per Gallon Excluding Taxes,2.451,Dollars per Gallon Excluding Taxes
+339,2022-01,JKWHUUS,Average Refiner Price of Kerosene-Type Jet Fuel for Resale in Dollars per Gallon Excluding Taxes,2.422,Dollars per Gallon Excluding Taxes
+340,2022-01,KSCCBUS,Kerosene Consumed by the Commercial Sector in Trillion Btu,0.309,Trillion Btu
+341,2022-01,KSCCEUS,Kerosene Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.023,Million Metric Tons of Carbon Dioxide
+342,2022-01,KSCCPUS,Kerosene Consumed by the Commercial Sector in Thousand Barrels per Day,1.756,Thousand Barrels per Day
+343,2022-01,KSICBUS,Kerosene Consumed by the Industrial Sector in Trillion Btu,0.551,Trillion Btu
+344,2022-01,KSICEUS,Kerosene Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.04,Million Metric Tons of Carbon Dioxide
+345,2022-01,KSICPUS,Kerosene Consumed by the Industrial Sector in Thousand Barrels per Day,3.137,Thousand Barrels per Day
+346,2022-01,KSRCBUS,Kerosene Consumed by the Residential Sector in Trillion Btu,1.976,Trillion Btu
+347,2022-01,KSRCEUS,Kerosene Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.145,Million Metric Tons of Carbon Dioxide
+348,2022-01,KSRCPUS,Kerosene Consumed by the Residential Sector in Thousand Barrels per Day,11.243,Thousand Barrels per Day
+349,2022-01,KSTCBUS,Kerosene Product Supplied in Trillion Btu,2.836,Trillion Btu
+350,2022-01,KSTCEUS,Kerosene CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.208,Million Metric Tons of Carbon Dioxide
+351,2022-01,KSTCPUS,Kerosene Product Supplied in Thousand Barrels per Day,16.136,Thousand Barrels per Day
+352,2022-01,KSTCUUS,Average Refiner Price of Kerosene to End Users in Dollars per Gallon Excluding Taxes,3.822,Dollars per Gallon Excluding Taxes
+353,2022-01,KSWHUUS,Average Refiner Price of Kerosene for Resale in Dollars per Gallon Excluding Taxes,2.655,Dollars per Gallon Excluding Taxes
+354,2022-01,LNEXPBZ,Natural Gas Exports to Brazil in Billion Cubic Feet,17.322,Billion Cubic Feet
+355,2022-01,LNEXPCE,Natural Gas Exports to Chile in Billion Cubic Feet,3.162,Billion Cubic Feet
+356,2022-01,LNEXPCH,Natural Gas Exports to China in Billion Cubic Feet,0,Billion Cubic Feet
+357,2022-01,LNEXPFR,Natural Gas Exports to France in Billion Cubic Feet,50.084,Billion Cubic Feet
+358,2022-01,LNEXPIH,Natural Gas Exports to India in Billion Cubic Feet,6.866,Billion Cubic Feet
+359,2022-01,LNEXPJA,Natural Gas Exports to Japan in Billion Cubic Feet,21.527,Billion Cubic Feet
+360,2022-01,LNEXPOT,Natural Gas Exports to Other Countries in Billion Cubic Feet,78.326,Billion Cubic Feet
+361,2022-01,LNEXPSK,Natural Gas Exports to South Korea in Billion Cubic Feet,21.824,Billion Cubic Feet
+362,2022-01,LNEXPSP,Natural Gas Exports to Spain in Billion Cubic Feet,49.379,Billion Cubic Feet
+363,2022-01,LNEXPTU,Natural Gas Exports to Turkey in Billion Cubic Feet,45.081,Billion Cubic Feet
+364,2022-01,LNEXPUK,Natural Gas Exports to United Kingdom in Billion Cubic Feet,60.06,Billion Cubic Feet
+365,2022-01,LNIMPAG,Natural Gas Imports from Algeria in Billion Cubic Feet,0,Billion Cubic Feet
+366,2022-01,LNIMPAU,Natural Gas Imports from Australia in Billion Cubic Feet,0,Billion Cubic Feet
+367,2022-01,LNIMPEY,Natural Gas Imports from Egypt in Billion Cubic Feet,0,Billion Cubic Feet
+368,2022-01,LNIMPNI,Natural Gas Imports from Nigeria in Billion Cubic Feet,0,Billion Cubic Feet
+369,2022-01,LNIMPNO,Natural Gas Imports from Norway in Billion Cubic Feet,0,Billion Cubic Feet
+370,2022-01,LNIMPOM,Natural Gas Imports from Oman in Billion Cubic Feet,0,Billion Cubic Feet
+371,2022-01,LNIMPOT,Natural Gas Imports from Other Countries in Billion Cubic Feet,0,Billion Cubic Feet
+372,2022-01,LNIMPQA,Natural Gas Imports from Qatar in Billion Cubic Feet,0,Billion Cubic Feet
+373,2022-01,LNIMPTD,Natural Gas Imports from Trinidad and Tobago in Billion Cubic Feet,6.381,Billion Cubic Feet
+374,2022-01,LNIMPUA,Natural Gas Imports from United Arab Emirates in Billion Cubic Feet,0,Billion Cubic Feet
+375,2022-01,LNIMPYE,Natural Gas Imports from Yemen in Billion Cubic Feet,0,Billion Cubic Feet
+376,2022-01,LOACBUS,Electrical Energy System Losses Proportioned to the Transportation Sector in Trillion Btu,3.737,Trillion Btu
+377,2022-01,LOCCBUS,Electrical Energy System Losses Proportioned to the Commercial Sector in Trillion Btu,743.29,Trillion Btu
+378,2022-01,LOICBUS,Electrical Energy System Losses Proportioned to the Industrial Sector in Trillion Btu,551.365,Trillion Btu
+379,2022-01,LORCBUS,Electricity Energy System Losses Proportioned to the Residential Sector in Trillion Btu,933.672,Trillion Btu
+380,2022-01,LOTCBUS,Total Electrical Energy System Losses Proportioned to the End-Use Sectors in Trillion Btu,2232.064,Trillion Btu
+381,2022-01,LUACBUS,Lubricants Consumed by the Transportation Sector in Trillion Btu,11.024,Trillion Btu
+382,2022-01,LUACEUS,Lubricants Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.408,Million Metric Tons of Carbon Dioxide
+383,2022-01,LUACPUS,Lubricants Consumed by the Transportation Sector in Thousand Barrels per Day,58.633,Thousand Barrels per Day
+384,2022-01,LUICBUS,Lubricants Consumed by the Industrial Sector in Trillion Btu,10.592,Trillion Btu
+385,2022-01,LUICEUS,Lubricants Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.392,Million Metric Tons of Carbon Dioxide
+386,2022-01,LUICPUS,Lubricants Consumed by the Industrial Sector in Thousand Barrels per Day,56.337,Thousand Barrels per Day
+387,2022-01,LUNFBUS,Lubricants Non-Combustion Consumption in Quadrillion Btu,0.021616,Quadrillion Btu
+388,2022-01,LUNFPUS,Lubricants Non-Combustion Consumption in Thousand Barrels per Day,114.97,Thousand Barrels per Day
+389,2022-01,LUTCBUS,Lubricants Product Supplied in Trillion Btu,21.616,Trillion Btu
+390,2022-01,LUTCEUS,Lubricants CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.801,Million Metric Tons of Carbon Dioxide
+391,2022-01,LUTCPUS,Lubricants Product Supplied in Thousand Barrels per Day,114.97,Thousand Barrels per Day
+392,2022-01,MGACBUS,Motor Gasoline Consumed by the Transportation Sector in Trillion Btu,1195.854,Trillion Btu
+393,2022-01,MGACPUS,Motor Gasoline Consumed by the Transportation Sector in Thousand Barrels per Day,7638.802,Thousand Barrels per Day
+394,2022-01,MGCCBUS,Motor Gasoline Consumed by the Commercial Sector in Trillion Btu,31.173,Trillion Btu
+395,2022-01,MGCCPUS,Motor Gasoline Consumed by the Commercial Sector in Thousand Barrels per Day,199.126,Thousand Barrels per Day
+396,2022-01,MGEXPUS,Finished Motor Gasoline Exports in Thousand Barrels per Day,806.41,Thousand Barrels per Day
+397,2022-01,MGICBUS,Motor Gasoline Consumed by the Industrial Sector in Trillion Btu,22.593,Trillion Btu
+398,2022-01,MGICPUS,Motor Gasoline Consumed by the Industrial Sector in Thousand Barrels per Day,144.32,Thousand Barrels per Day
+399,2022-01,MGIMPUS,Finished Motor Gasoline Imports in Thousand Barrels per Day,69.839,Thousand Barrels per Day
+400,2022-01,MGROPUS,Finished Motor Gasoline Refinery and Blender Net Production in Thousand Barrels per Day,8756.129,Thousand Barrels per Day
+401,2022-01,MGTCAUS,Average Cost of Motor Gasoline in Dollars per Million Btu,10.354,Dollars per Million Btu
+402,2022-01,MGTCBUS,Motor Gasoline Product Supplied in Trillion Btu,1249.621,Trillion Btu
+403,2022-01,MGTCOUS,Average Cost of Motor Gasoline in Dollars per Gallon,1.245,Dollars per Gallon
+404,2022-01,MGTCPUS,Motor Gasoline Product Supplied in Thousand Barrels per Day,7982.248,Thousand Barrels per Day
+405,2022-01,MGTCUUS,Average Refiner Price of Finished Motor Gasoline to End Users in Dollars per Gallon Excluding Taxes,3.145,Dollars per Gallon Excluding Taxes
+406,2022-01,MGUCUUS,"All Grades of Gasoline, U.S. City Average Retail Price in Dollars per Gallon Including Taxes",3.5,Dollars per Gallon Including Taxes
+407,2022-01,MGWHUUS,Average Refiner Price of Finished Motor Gasoline for Resale in Dollars per Gallon Excluding Taxes,2.423,Dollars per Gallon Excluding Taxes
+408,2022-01,MMACEUS,"Motor Gasoline, Excluding Ethanol, Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",78.445,Million Metric Tons of Carbon Dioxide
+409,2022-01,MMCCEUS,"Motor Gasoline, Excluding Ethanol, Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",2.045,Million Metric Tons of Carbon Dioxide
+410,2022-01,MMICEUS,"Motor Gasoline, Excluding Ethanol, Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",1.482,Million Metric Tons of Carbon Dioxide
+411,2022-01,MMTCEUS,"Motor Gasoline, Excluding Ethanol, CO2 Emissions in Million Metric Tons of Carbon Dioxide",81.972,Million Metric Tons of Carbon Dioxide
+412,2022-01,MTPSPUS,"Motor Gasoline Stocks (Including Blending Components and Gasohol), End of Period in Million Barrels",251.753,Million Barrels
+413,2022-01,NGACBUS,Natural Gas Consumed by the Transportation Sector (Excluding Supplemental Gaseous Fuels) in Trillion Btu,142.26,Trillion Btu
+414,2022-01,NGACEUS,Natural Gas Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,7.527,Million Metric Tons of Carbon Dioxide
+415,2022-01,NGACPUS,"Natural Gas Consumed by the Transportation Sector, Total in Billion Cubic Feet",136.92,Billion Cubic Feet
+416,2022-01,NGAJPUS,Natural Gas Balancing Item in Billion Cubic Feet,-45.154,Billion Cubic Feet
+417,2022-01,NGBGPUS,"Natural Gas in Underground Storage, End of Period, Base Gas in Billion Cubic Feet",4437.357,Billion Cubic Feet
+418,2022-01,NGC1PUS,"Natural Gas Consumption for Electricity Generation, Commercial Sector in Billion Cubic Feet",3.964,Billion Cubic Feet
+419,2022-01,NGC3PUS,"Natural Gas Consumption for Electricity Generation and Useful Thermal Output, Commercial Sector in Billion Cubic Feet",10.933,Billion Cubic Feet
+420,2022-01,NGC5PUS,"Electricity Net Generation From Natural Gas, Commercial Sector in Million Kilowatthours",657.488,Million Kilowatthours
+421,2022-01,NGC9PUS,"Natural Gas Commercial Sector, Net Summer Capacity in Million Kilowatts",2.28,Million Kilowatts
+422,2022-01,NGCCPUS,Natural Gas Consumed by the Commercial Sector in Billion Cubic Feet,552.924,Billion Cubic Feet
+423,2022-01,NGCCSUS,Percentage of Commercial Sector Consumption for Which Price Data Are Available in Percent,71.6,Percent
+424,2022-01,NGCCUUS,"Average Natural Gas Price, Delivered to Consumers, Commercial in Dollars per Thousand Cubic Feet",9.81,Dollars per Thousand Cubic Feet
+425,2022-01,NGCGUUS,"Average Natural Gas Price, Citygate in Dollars per Thousand Cubic Feet",5.39,Dollars per Thousand Cubic Feet
+426,2022-01,NGECPUS,"Natural Gas Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Billion Cubic Feet",1097.897,Billion Cubic Feet
+427,2022-01,NGEGPUS,"Electricity Net Generation From Natural Gas, Electric Power Sector in Million Kilowatthours",126242.205,Million Kilowatthours
+428,2022-01,NGEIPUS,"Natural Gas Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Billion Cubic Feet",961.384,Billion Cubic Feet
+429,2022-01,NGEISUS,Percentage of Electric Power Sector Consumption for Which Price Data Are Available in Percent,88.9,Percent
+430,2022-01,NGEIUUS,"Average Natural Gas Price, Electric Power Sector in Dollars per Thousand Cubic Feet",6.97,Dollars per Thousand Cubic Feet
+431,2022-01,NGELPUS,NGPL Production in Billion Cubic Feet,245.994,Billion Cubic Feet
+432,2022-01,NGEPPUS,"Natural Gas Consumption for Electricity Generation, All Sectors in Billion Cubic Feet",984.729,Billion Cubic Feet
+433,2022-01,NGERDUS,"Average Cost of Natural Gas Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",6.57,"Dollars per Million Btu, Including Taxes"
+434,2022-01,NGETPUS,"Electricity Net Generation From Natural Gas, All Sectors in Million Kilowatthours",135743.004,Million Kilowatthours
+435,2022-01,NGEXBUS,Natural Gas Exports in Quadrillion Btu,615.593,Quadrillion Btu
+436,2022-01,NGEXPCN,Natural Gas Exports to Canada in Billion Cubic Feet,81.432,Billion Cubic Feet
+437,2022-01,NGEXPMX,Natural Gas Exports to Mexico in Billion Cubic Feet,175.039,Billion Cubic Feet
+438,2022-01,NGEXPUS,Total Natural Gas Exports in Billion Cubic Feet,610.102,Billion Cubic Feet
+439,2022-01,NGGBPUS,"Natural Gas, Net Summer Capacity  in Million Kilowatts",491.824,Million Kilowatts
+440,2022-01,NGGWPUS,Natural Gas Gross Withdrawals in Billion Cubic Feet,3591.006,Billion Cubic Feet
+441,2022-01,NGI1PUS,"Natural Gas Consumption for Electricity Generation, Industrial Sector in Billion Cubic Feet",53.136,Billion Cubic Feet
+442,2022-01,NGI3PUS,"Natural Gas Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Billion Cubic Feet",125.581,Billion Cubic Feet
+443,2022-01,NGI4PUS,"Natural Gas Consumed by the Other Industrial Sector, Non-CHP in Billion Cubic Feet",693.248,Billion Cubic Feet
+444,2022-01,NGI5PUS,"Electricity Net Generation From Natural Gas, Industrial Sector in Million Kilowatthours",8843.312,Million Kilowatthours
+445,2022-01,NGI9PUS,"Natural Gas Industrial Sector, Net Summer Capacity in Million Kilowatts",16.137,Million Kilowatts
+446,2022-01,NGICPUS,"Natural Gas Consumed by the Industrial Sector, Total in Billion Cubic Feet",981.778,Billion Cubic Feet
+447,2022-01,NGIMBUS,Natural Gas Imports in Quadrillion Btu,303.583,Quadrillion Btu
+448,2022-01,NGIMPCN,Natural Gas Imports from Canada in Billion Cubic Feet,289.743,Billion Cubic Feet
+449,2022-01,NGIMPMX,Natural Gas Imports from Mexico in Billion Cubic Feet,0.054,Billion Cubic Feet
+450,2022-01,NGIMPUS,Natural Gas Imports in Billion Cubic Feet,296.179,Billion Cubic Feet
+451,2022-01,NGINPUS,"Natural Gas Consumed by the Other Industrial Sector, Total in Billion Cubic Feet",818.829,Billion Cubic Feet
+452,2022-01,NGINSUS,Percentage of Industrial Sector Consumption for Which Price Data Are Available in Percent,13.5,Percent
+453,2022-01,NGINUUS,"Average Natural Gas Price, Delivered to Consumers, Industrial in Dollars per Thousand Cubic Feet",6.64,Dollars per Thousand Cubic Feet
+454,2022-01,NGL1PUS,"Natural Gas Consumption for Electricity Generation, Electric Power Sector in Billion Cubic Feet",927.629,Billion Cubic Feet
+455,2022-01,NGL9PUS,"Natural Gas Electric Power Sector, Net Summer Capacity in Million Kilowatts",473.408,Million Kilowatts
+456,2022-01,NGLPPUS,"Natural Gas Consumed by the Industrial Sector, Lease and Plant Fuel in Billion Cubic Feet",162.949,Billion Cubic Feet
+457,2022-01,NGMPPUS,Natural Gas Marketed Production (Wet) in Billion Cubic Feet,3199.287,Billion Cubic Feet
+458,2022-01,NGNFBUS,Natural Gas Non-Combustion Consumption in Quadrillion Btu,0.110774,Quadrillion Btu
+459,2022-01,NGNFPUS,Natural Gas Non-Combustion Consumption in Billion Cubic Feet,106.616,Billion Cubic Feet
+460,2022-01,NGNIBUS,Natural Gas Net Imports in Quadrillion Btu,-0.31201,Quadrillion Btu
+461,2022-01,NGNIPUS,Natural Gas Net Imports in Billion Cubic Feet,-313.924,Billion Cubic Feet
+462,2022-01,NGNRPUS,"Natural Gas Rotary Rigs in Operation, Total in Number of Rigs",111,Number of Rigs
+463,2022-01,NGNWPUS,Natural Gas Net Storage Withdrawals in Billion Cubic Feet,993.756,Billion Cubic Feet
+464,2022-01,NGPRBUS,Natural Gas (Dry) Production in Quadrillion Btu,3062.565,Quadrillion Btu
+465,2022-01,NGPRPUS,Natural Gas Production (Dry) in Billion Cubic Feet,2953.293,Billion Cubic Feet
+466,2022-01,NGPZPUS,"Natural Gas Consumed by the Transportation Sector, Pipelines and Distribution in Billion Cubic Feet",132.406,Billion Cubic Feet
+467,2022-01,NGRCAUS,Average Cost of Residential Natural Gas in Dollars per Million Btu,4.118,Dollars per Million Btu
+468,2022-01,NGRCOUS,Average Cost of Residential Natural Gas in Dollars per Thousand Cubic Feet,4.279,Dollars per Thousand Cubic Feet
+469,2022-01,NGRCPUS,Natural Gas Consumed by the Residential Sector in Billion Cubic Feet,961.493,Billion Cubic Feet
+470,2022-01,NGRCSUS,Percentage of Residential Sector Consumption for Which Price Data Are Available in Percent,96.9,Percent
+471,2022-01,NGRCUUS,"Average Natural Gas Price, Delivered to Consumers, Residential in Dollars per Thousand Cubic Feet",12.03,Dollars per Thousand Cubic Feet
+472,2022-01,NGSFPUS,Supplemental Gaseous Fuels in Billion Cubic Feet,6.528,Billion Cubic Feet
+473,2022-01,NGTCPUS,"Natural Gas Consumption, Total in Billion Cubic Feet",3594.499,Billion Cubic Feet
+474,2022-01,NGTWPUS,"Wells Drilled, Natural Gas in Number",269,Number
+475,2022-01,NGUSPUS,"Natural Gas in Underground Storage, End of Period, Total in Billion Cubic Feet",6653.298,Billion Cubic Feet
+476,2022-01,NGVHPUS,"Natural Gas Consumed by the Transportation Sector, Vehicle Fuel in Billion Cubic Feet",4.515,Billion Cubic Feet
+477,2022-01,NGVHUUS,Average Natural Gas Transportation Sector Price in Dollars per Thousand Cubic Feet,Not Available,Dollars per Thousand Cubic Feet
+478,2022-01,NGWCCUS,"Change in Working Gas From Same Period Previous Year, Percent in Percent",-15.9,Percent
+479,2022-01,NGWCPUS,"Change in Working Gas From Same Period Previous Year, Volume in Billion Cubic Feet",-419.027,Billion Cubic Feet
+480,2022-01,NGWGPUS,"Natural Gas in Underground Storage, End of Period, Working Gas in Billion Cubic Feet",2215.941,Billion Cubic Feet
+481,2022-01,NGWPUUS,"Average Natural Gas Price, Wellhead in Dollars per Thousand Cubic Feet",Not Available,Dollars per Thousand Cubic Feet
+482,2022-01,NLPRBUS,Natural Gas Plant Liquids Production in Quadrillion Btu,605.263,Quadrillion Btu
+483,2022-01,NLPRPUS,Natural Gas Liquids Production in Thousand Barrels per Day,5446.194,Thousand Barrels per Day
+484,2022-01,NLRIPUS,Natural Gas Liquids Refinery and Blender Net Inputs in Thousand Barrels per Day,704.065,Thousand Barrels per Day
+485,2022-01,NNCCBUS,Natural Gas Consumed by the Commercial Sector (Excluding Supplemental Gaseous Fuels) in Trillion Btu,573.35,Trillion Btu
+486,2022-01,NNCCEUS,"Natural Gas, Excluding Supplemental Gaseous Fuels, Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",30.336,Million Metric Tons of Carbon Dioxide
+487,2022-01,NNEIBUS,Natural Gas Consumed by the Electric Power Sector (Excluding Supplemental Gaseous Fuels) in Trillion Btu,992.101,Trillion Btu
+488,2022-01,NNEIEUS,Natural Gas Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,52.492,Million Metric Tons of Carbon Dioxide
+489,2022-01,NNICBUS,Natural Gas Consumed by the Industrial Sector (Excluding Supplemental Gaseous Fuels) in Trillion Btu,1018.381,Trillion Btu
+490,2022-01,NNICEUS,Natural Gas Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,51.704,Million Metric Tons of Carbon Dioxide
+491,2022-01,NNRCBUS,Natural Gas Consumed by the Residential Sector (Excluding Supplemental Gaseous Fuels) in Trillion Btu,997.012,Trillion Btu
+492,2022-01,NNRCEUS,"Natural Gas, Excluding Supplemental Gaseous Fuels, Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",52.752,Million Metric Tons of Carbon Dioxide
+493,2022-01,NNTCBUS,Natural Gas Consumption (Excluding Supplemental Gaseous Fuels) in Quadrillion Btu,3720.722,Quadrillion Btu
+494,2022-01,NNTCEUS,"Natural Gas, Excluding Supplemental Gaseous Fuels, CO2 Emissions in Million Metric Tons of Carbon Dioxide",194.81,Million Metric Tons of Carbon Dioxide
+495,2022-01,NUC9PUS,"Nuclear Commercial Sector, Net Summer Capacity in Million Kilowatts",No Data Reported,Million Kilowatts
+496,2022-01,NUCASUS,"Nuclear Generating Units, Capacity Factor in Percent",99.3,Percent
+497,2022-01,NUEGBUS,Nuclear Electric Power Consumed by the Electric Power Sector in Trillion Btu,736.046,Trillion Btu
+498,2022-01,NUEGPUS,"Electricity Net Generation From Nuclear Electric Power, Electric Power Sector in Million Kilowatthours",70576.875,Million Kilowatthours
+499,2022-01,NUETBUS,Nuclear Electric Power Consumption/Production in Quadrillion Btu,736.046,Quadrillion Btu
+500,2022-01,NUETPUS,"Electricity Net Generation From Nuclear Electric Power, All Sectors in Million Kilowatthours",70576.875,Million Kilowatthours
+501,2022-01,NUETSUS,Nuclear Share of Electricity Net Generation in Percent,18.7,Percent
+502,2022-01,NUGBPUS,"Nuclear Generating Units, Net Summer Capacity, End of Period in Million Kilowatts",95.519,Million Kilowatts
+503,2022-01,NUI9PUS,"Nuclear Industrial Sector, Net Summer Capacity in Million Kilowatts",No Data Reported,Million Kilowatts
+504,2022-01,NUL9PUS,"Nuclear Electric Power Sector, Net Summer Capacity in Million Kilowatts",95.519,Million Kilowatts
+505,2022-01,NUOUPUS,"Nuclear Generating Units, Total Operable Units, End of Period in Number",93,Number
+506,2022-01,NWEIEUS,Non-Biomass Waste Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.892,Million Metric Tons of Carbon Dioxide
+507,2022-01,NXSCPUS,"Natural Gas Storage Activity, Net in Billion Cubic Feet",993.756,Billion Cubic Feet
+508,2022-01,NXSIPUS,"Natural Gas Storage Activity, Injections in Billion Cubic Feet",75.578,Billion Cubic Feet
+509,2022-01,NXWSPUS,"Natural Gas Storage Activity, Withdrawals in Billion Cubic Feet",1069.334,Billion Cubic Feet
+510,2022-01,OGDFPUS,"Dry Wells, Total Footage Drilled  in Thousand Feet",799,Thousand Feet
+511,2022-01,OGDRPUS,"Crude Oil and Natural Gas Rotary Rigs in Operation, Directional Trajectory in Number of Rigs",35,Number of Rigs
+512,2022-01,OGGFPUS,"Natural Gas Wells, Total Footage Drilled   in Thousand Feet",4607,Thousand Feet
+513,2022-01,OGHFPUS,"Crude Oil, Natural Gas, and Dry Wells, Horizontal and Directional Trajectory, Total Footage Drilled in Thousand Feet",16767,Thousand Feet
+514,2022-01,OGHRPUS,"Crude Oil and Natural Gas Rotary Rigs in Operation, Horizontal Trajectory in Number of Rigs",543,Number of Rigs
+515,2022-01,OGNRPOF,"Crude Oil and Natural Gas Rotary Rigs in Operation, Offshore in Number of Rigs",18,Number of Rigs
+516,2022-01,OGNRPON,"Crude Oil and Natural Gas Rotary Rigs in Operation, Onshore in Number of Rigs",583,Number of Rigs
+517,2022-01,OGNRPUS,"Crude Oil and Natural Gas Rotary Rigs in Operation, Total in Number of Rigs",601,Number of Rigs
+518,2022-01,OGPFPUS,"Crude Oil Wells, Total Footage Drilled  in Thousand Feet",12384,Thousand Feet
+519,2022-01,OGTFPUS,"Crude Oil, Natural Gas, and Dry Wells, Total Footage Drilled in Thousand Feet",17791,Thousand Feet
+520,2022-01,OGTWPUS,"Crude Oil, Natural Gas, and Dry Wells Drilled, Total in Number",1174,Number
+521,2022-01,OGVFPUS,"Crude Oil, Natural Gas, and Dry Wells, Vertical Trajectory, Total Footage Drilled in Thousand Feet",1024,Thousand Feet
+522,2022-01,OGVTPUS,"Crude Oil and Natural Gas Rotary Rigs in Operation, Vertical Trajectory in Number of Rigs",23,Number of Rigs
+523,2022-01,OGWSPUS,Active Well Service Rig Count in Number of Rigs,995,Number of Rigs
+524,2022-01,OJECBUS,"Other Gases Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Trillion Btu",22.629,Trillion Btu
+525,2022-01,OJEGPUS,"Electricity Net Generation From Other Gases, Electric Power Sector in Million Kilowatthours",278.462,Million Kilowatthours
+526,2022-01,OJEIBUS,"Other Gases Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Trillion Btu",3.049,Trillion Btu
+527,2022-01,OJEPBUS,"Other Gases Consumption for Electricity Generation, All Sectors in Trillion Btu",5.388,Trillion Btu
+528,2022-01,OJETPUS,"Electricity Net Generation From Other Gases, All Sectors in Million Kilowatthours",983.965,Million Kilowatthours
+529,2022-01,OJI1BUS,"Other Gases Consumption for Electricity Generation, Industrial Sector in Trillion Btu",4.084,Trillion Btu
+530,2022-01,OJI3BUS,"Other Gases Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Trillion Btu",19.58,Trillion Btu
+531,2022-01,OJI5PUS,"Electricity Net Generation From Other Gases, Industrial Sector in Million Kilowatthours",705.503,Million Kilowatthours
+532,2022-01,OJL1BUS,"Other Gases Consumption for Electricity Generation, Electric Power Sector in Trillion Btu",1.304,Trillion Btu
+533,2022-01,OLECPUS,"Other Petroleum Liquids Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Barrels",295.585,Thousand Barrels
+534,2022-01,OLEIPUS,"Other Petroleum Liquids Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Barrels",241.659,Thousand Barrels
+535,2022-01,OLEKPUS,"Other Petroleum Liquids Stocks, Electric Power Sector, End of Period in Thousand Barrels",658.146,Thousand Barrels
+536,2022-01,OLEPPUS,"Other Petroleum Liquids Consumption for Electricity Generation, All Sectors in Thousand Barrels",245.99,Thousand Barrels
+537,2022-01,OLL1PUS,"Other Petroleum Liquids Consumption for Electricity Generation, Electric Power Sector in Thousand Barrels",230.712,Thousand Barrels
+538,2022-01,OLRIPUS,Other Liquids Refinery and Blender Net Inputs in Thousand Barrels per Day,699.968,Thousand Barrels per Day
+539,2022-01,OMNIVUS,Non-Energy Balance in Million Dollars,-102102,Million Dollars
+540,2022-01,OPACBUS,Other Products Consumed by the Transportation Sector in Trillion Btu,17.595,Trillion Btu
+541,2022-01,OPACPUS,Other Products Consumed by the Transportation Sector in Thousand Barrels per Day,103.856,Thousand Barrels per Day
+542,2022-01,OPEXPUS,Other Petroleum Products Exports in Thousand Barrels per Day,1149.877,Thousand Barrels per Day
+543,2022-01,OPICBUS,Other Petroleum Products Consumed by the Industrial Sector in Trillion Btu,200.433,Trillion Btu
+544,2022-01,OPICEUS,Other Petroleum Products Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,10.132,Million Metric Tons of Carbon Dioxide
+545,2022-01,OPICPUS,Other Petroleum Products Consumed by the Industrial Sector in Thousand Barrels per Day,1082.122,Thousand Barrels per Day
+546,2022-01,OPIMPUS,Other Petroleum Products Imports in Thousand Barrels per Day,920.968,Thousand Barrels per Day
+547,2022-01,OPPSPUS,Other Products Stocks in Million Barrels,172.539,Million Barrels
+548,2022-01,OPROPUS,Other Petroleum Products Refinery and Blender Net Production in Thousand Barrels per Day,2280.355,Thousand Barrels per Day
+549,2022-01,OPTCBUS,Other Products Supplied in Trillion Btu,218.027,Trillion Btu
+550,2022-01,OPTCEUS,Other Petroleum Products CO2 Emissions in Million Metric Tons of Carbon Dioxide,10.132,Million Metric Tons of Carbon Dioxide
+551,2022-01,OPTCPUS,Other Products Supplied in Thousand Barrels per Day,1185.978,Thousand Barrels per Day
+552,2022-01,OTECBUS,"Other Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Trillion Btu",17.403,Trillion Btu
+553,2022-01,OTEIBUS,"Other Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Trillion Btu",10.924,Trillion Btu
+554,2022-01,OTEPBUS,"Other Consumption for Electricity Generation, All Sectors in Trillion Btu",14.898,Trillion Btu
+555,2022-01,OTI1BUS,"Other Consumption for Electricity Generation, Industrial Sector in Trillion Btu",3.078,Trillion Btu
+556,2022-01,OTI3BUS,"Other Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Trillion Btu",4.166,Trillion Btu
+557,2022-01,OTL1BUS,"Other Consumption for Electricity Generation, Electric Power Sector in Trillion Btu",10.053,Trillion Btu
+558,2022-01,OTNFBUS,Other Petroleum Non-Combustion Consumption in Quadrillion Btu,0.017175,Quadrillion Btu
+559,2022-01,OTNFPUS,Other Petroleum Non-Combusiton Consumption in Thousand Barrels per Day,95.879,Thousand Barrels per Day
+560,2022-01,PAACBUS,Total Petroleum Consumed by the Transportation Sector in Trillion Btu,2013.5,Trillion Btu
+561,2022-01,PAACPUS,Total Petroleum Consumed by the Transportation Sector in Thousand Barrels per Day,12220.961,Thousand Barrels per Day
+562,2022-01,PAAJPUS,Petroleum Adjustments in Thousand Barrels per Day,866.101,Thousand Barrels per Day
+563,2022-01,PAC1PUS,"Petroleum Consumption for Electricity Generation, Commercial Sector in Thousand Barrels",33.147,Thousand Barrels
+564,2022-01,PAC3PUS,"Petroleum Consumption for Electricity Generation and Useful Thermal Output, Commercial Sector in Thousand Barrels",133.196,Thousand Barrels
+565,2022-01,PAC5PUS,"Electricity Net Generation From Petroleum, Commercial Sector in Million Kilowatthours",Not Meaningful,Million Kilowatthours
+566,2022-01,PAC9PUS,"Petroleum Commercial Sector, Net Summer Capacity in Million Kilowatts",0.913,Million Kilowatts
+567,2022-01,PACCBUS,Total Petroleum Consumed by the Commercial Sector in Trillion Btu,107.766,Trillion Btu
+568,2022-01,PACCPUS,Total Petroleum Consumed by the Commercial Sector in Thousand Barrels per Day,712.637,Thousand Barrels per Day
+569,2022-01,PAECPUS,"Total Petroleum Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Barrels",6759.881,Thousand Barrels
+570,2022-01,PAEGPUS,"Electricity Net Generation From Petroleum, Electric Power Sector in Million Kilowatthours",3450.279,Million Kilowatthours
+571,2022-01,PAEIBUS,Total Petroleum Consumed by the Electric Power Sector in Trillion Btu,35.123,Trillion Btu
+572,2022-01,PAEIEUS,Petroleum Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,2.794,Million Metric Tons of Carbon Dioxide
+573,2022-01,PAEIZUS,Total Petroleum Consumed by the Electric Power Sector in Thousand Barrels per Day,190.331,Thousand Barrels per Day
+574,2022-01,PAEKPUS,"Total Petroleum Stocks, Electric Power Sector, End of Period in Thousand Barrels",25766.013,Thousand Barrels
+575,2022-01,PAEPPUS,"Total Petroleum Consumption for Electricity Generation, All Sectors in Thousand Barrels",6118.816,Thousand Barrels
+576,2022-01,PAERDUS,"Average Cost of Total Petroleum Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",13.49,"Dollars per Million Btu, Including Taxes"
+577,2022-01,PAETPUS,"Electricity Net Generation From Petroleum, All Sectors in Million Kilowatthours",3539.052,Million Kilowatthours
+578,2022-01,PAEXPBZ,Petroleum Exports to Brazil in Thousand Barrels per Day,399.462,Thousand Barrels per Day
+579,2022-01,PAEXPCH,Petroleum Exports to China in Thousand Barrels per Day,455.54,Thousand Barrels per Day
+580,2022-01,PAEXPCN,Petroleum Exports to Canada in Thousand Barrels per Day,718.149,Thousand Barrels per Day
+581,2022-01,PAEXPIH,Petroleum Exports to India in Thousand Barrels per Day,817.272,Thousand Barrels per Day
+582,2022-01,PAEXPJA,Petroleum Exports to Japan in Thousand Barrels per Day,459.966,Thousand Barrels per Day
+583,2022-01,PAEXPMX,Petroleum Exports to Mexico in Thousand Barrels per Day,1100.595,Thousand Barrels per Day
+584,2022-01,PAEXPNL,Petroleum Exports to Netherlands in Thousand Barrels per Day,252.079,Thousand Barrels per Day
+585,2022-01,PAEXPOT,Petroleum Exports to Other Countries in Thousand Barrels per Day,3202.743,Thousand Barrels per Day
+586,2022-01,PAEXPSK,Petroleum Exports to South Korea in Thousand Barrels per Day,523.438,Thousand Barrels per Day
+587,2022-01,PAEXPSN,Petroleum Exports to Singapore in Thousand Barrels per Day,541.526,Thousand Barrels per Day
+588,2022-01,PAEXPUK,Petroleum Exports to United Kingdom in Thousand Barrels per Day,292.509,Thousand Barrels per Day
+589,2022-01,PAEXPUS,Total Petroleum Exports in Thousand Barrels per Day,8763.277,Thousand Barrels per Day
+590,2022-01,PAEXVUS,Petroleum Exports in Million Dollars,15560,Million Dollars
+591,2022-01,PAGBPUS,"Petroleum, Net Summer Capacity in Million Kilowatts",28.201,Million Kilowatts
+592,2022-01,PAGLPUS,Petroleum Processing Gain in Thousand Barrels per Day,984.194,Thousand Barrels per Day
+593,2022-01,PAI1PUS,"Petroleum Consumption for Electricity Generation, Industrial Sector in Thousand Barrels",92.682,Thousand Barrels
+594,2022-01,PAI3PUS,"Petroleum Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Thousand Barrels",484.778,Thousand Barrels
+595,2022-01,PAI5PUS,"Electricity Net Generation From Petroleum, Industrial Sector in Million Kilowatthours",72.677,Million Kilowatthours
+596,2022-01,PAI9PUS,"Petroleum Industrial Sector, Net Summer Capacity in Million Kilowatts",0.503,Million Kilowatts
+597,2022-01,PAICBUS,Total Petroleum Consumed by the Industrial Sector in Trillion Btu,750.51,Trillion Btu
+598,2022-01,PAICPUS,Total Petroleum Consumed by the Industrial Sector in Thousand Barrels per Day,5469.039,Thousand Barrels per Day
+599,2022-01,PAIMPAG,Petroleum Imports From Algeria in Thousand Barrels per Day,No Data Reported,Thousand Barrels per Day
+600,2022-01,PAIMPAO,Petroleum Imports From Angola (OPEC Series) in Thousand Barrels per Day,68.774,Thousand Barrels per Day
+601,2022-01,PAIMPBZ,Petroleum Imports From Brazil in Thousand Barrels per Day,109.806,Thousand Barrels per Day
+602,2022-01,PAIMPCL,Petroleum Imports From Colombia in Thousand Barrels per Day,200,Thousand Barrels per Day
+603,2022-01,PAIMPCN,Petroleum Imports From Canada in Thousand Barrels per Day,4557.226,Thousand Barrels per Day
+604,2022-01,PAIMPEN,Petroleum Imports from Ecuador in Thousand Barrels per Day,99.903,Thousand Barrels per Day
+605,2022-01,PAIMPIQ,Petroleum Imports From Iraq in Thousand Barrels per Day,260.742,Thousand Barrels per Day
+606,2022-01,PAIMPKU,Petroleum Imports From Kuwait in Thousand Barrels per Day,57.516,Thousand Barrels per Day
+607,2022-01,PAIMPLY,Petroleum Imports From Libya in Thousand Barrels per Day,76.161,Thousand Barrels per Day
+608,2022-01,PAIMPMX,Petroleum Imports From Mexico in Thousand Barrels per Day,757.871,Thousand Barrels per Day
+609,2022-01,PAIMPNI,Petroleum Imports From Nigeria in Thousand Barrels per Day,28.516,Thousand Barrels per Day
+610,2022-01,PAIMPNL,Petroleum Imports From Netherlands in Thousand Barrels per Day,69.484,Thousand Barrels per Day
+611,2022-01,PAIMPNO,Petroleum Imports From Norway in Thousand Barrels per Day,48.097,Thousand Barrels per Day
+612,2022-01,PAIMPNT,Petroleum Imports From Total Non-OPEC Countries in Thousand Barrels per Day,7062.162,Thousand Barrels per Day
+613,2022-01,PAIMPOO,Petroleum Imports From Other OPEC in Thousand Barrels per Day,17.225,Thousand Barrels per Day
+614,2022-01,PAIMPOP,Petroleum Imports From Total OPEC in Thousand Barrels per Day,1096.419,Thousand Barrels per Day
+615,2022-01,PAIMPOT,Petroleum Imports From Other Non-OPEC in Thousand Barrels per Day,856.13,Thousand Barrels per Day
+616,2022-01,PAIMPPG,Petroleum Imports From Persian Gulf in Thousand Barrels per Day,985.903,Thousand Barrels per Day
+617,2022-01,PAIMPRU,Petroleum Imports From Russia in Thousand Barrels per Day,282.548,Thousand Barrels per Day
+618,2022-01,PAIMPSA,Petroleum Imports From Saudi Arabia in Thousand Barrels per Day,552.871,Thousand Barrels per Day
+619,2022-01,PAIMPUA,Petroleum Imports from United Arab Emirates in Thousand Barrels per Day,34.613,Thousand Barrels per Day
+620,2022-01,PAIMPUK,Petroleum Imports From United Kingdom in Thousand Barrels per Day,81.097,Thousand Barrels per Day
+621,2022-01,PAIMPUS,Total Petroleum Imports in Thousand Barrels per Day,8158.581,Thousand Barrels per Day
+622,2022-01,PAIMPVE,Petroleum Imports From Venezuela in Thousand Barrels per Day,No Data Reported,Thousand Barrels per Day
+623,2022-01,PAIMPVI,Petroleum Imports From U.S. Virgin Islands in Thousand Barrels per Day,No Data Reported,Thousand Barrels per Day
+624,2022-01,PAIMSOP,Petroleum Imports From OPEC as Share of Total Imports in Percent,13.4,Percent
+625,2022-01,PAIMSPG,Petroleum Imports From Persian Gulf as Share of Total Imports in Percent,12.1,Percent
+626,2022-01,PAIMVUS,Petroleum Imports in Million Dollars,18515,Million Dollars
+627,2022-01,PAIQSOP,Petroleum Imports From OPEC as Share of Products Supplied in Percent,5.6,Percent
+628,2022-01,PAIQSPG,Petroleum Imports From Persian Gulf as Share of Products Supplied in Percent,5,Percent
+629,2022-01,PAIQSUS,Petroleum Imports as Share of Products Supplied in Percent,41.3,Percent
+630,2022-01,PAL1PUS,"Total Petroleum Consumption for Electricity Generation, Electric Power Sector in Thousand Barrels",5992.987,Thousand Barrels
+631,2022-01,PAL9PUS,"Petroleum Electric Power Sector, Net Summer Capacity in Million Kilowatts",26.785,Million Kilowatts
+632,2022-01,PANFBUS,Total Petroleum Non-Combustion Consumption in Quadrillion Btu,0.427467,Quadrillion Btu
+633,2022-01,PANFPUS,Total Petroleum Non-Combustion Consumption in Thousand Barrels per Day,3650.374,Thousand Barrels per Day
+634,2022-01,PANIPUS,Petroleum Net Imports in Thousand Barrels per Day,-604.696,Thousand Barrels per Day
+635,2022-01,PANIVUS,Petroleum Balance in Million Dollars,-2955,Million Dollars
+636,2022-01,PANQSUS,Petroleum Net Imports as Share of Products Supplied in Percent,-3.1,Percent
+637,2022-01,PANRPUS,"Crude Oil Rotary Rigs in Operation, Total in Number of Rigs",490,Number of Rigs
+638,2022-01,PAPRBUS,Crude Oil Production in Quadrillion Btu,2005.437,Quadrillion Btu
+639,2022-01,PAPRP48,"Crude Oil Production, 48 States in Thousand Barrels per Day",10919.722,Thousand Barrels per Day
+640,2022-01,PAPRPAK,"Crude Oil Production, Alaska in Thousand Barrels per Day",449.615,Thousand Barrels per Day
+641,2022-01,PAPRPUS,"Crude Oil Production, Total in Thousand Barrels per Day",11369.338,Thousand Barrels per Day
+642,2022-01,PAPSPUS,"Petroleum Stocks, United States, End of Period in Million Barrels",1778.304,Million Barrels
+643,2022-01,PARCBUS,Total Petroleum Consumed by the Residential Sector in Trillion Btu,158.473,Trillion Btu
+644,2022-01,PARCEUS,Petroleum Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,10.737,Million Metric Tons of Carbon Dioxide
+645,2022-01,PARCPUS,Total Petroleum Consumed by the Residential Sector in Thousand Barrels per Day,1138.049,Thousand Barrels per Day
+646,2022-01,PARIPUS,Total Petroleum Refinery and Blender Net Inputs in Thousand Barrels per Day,16855.032,Thousand Barrels per Day
+647,2022-01,PAROPUS,Total Petroleum Refinery and Blender Net Production in Thousand Barrels per Day,17839.226,Thousand Barrels per Day
+648,2022-01,PASCPUS,Petroleum Stock Change in Thousand Barrels per Day,-462.954,Thousand Barrels per Day
+649,2022-01,PATCBUS,Total Petroleum Products Supplied in Trillion Btu,3065.371,Trillion Btu
+650,2022-01,PATCPUS,"Petroleum Products Supplied/Consumption, United States in Thousand Barrels per Day",19731.017,Thousand Barrels per Day
+651,2022-01,PATWPUS,"Wells Drilled, Crude Oil in Number",795,Number
+652,2022-01,PCCCBUS,Petroleum Coke Consumed by the Commercial Sector in Trillion Btu,0.06,Trillion Btu
+653,2022-01,PCCCEUS,Petroleum Coke Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.006,Million Metric Tons of Carbon Dioxide
+654,2022-01,PCCCPUS,Petroleum Coke Consumed by the Commercial Sector in Thousand Barrels per Day,0.336,Thousand Barrels per Day
+655,2022-01,PCECMUS,"Petroleum Coke Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Short Tons",275.301,Thousand Short Tons
+656,2022-01,PCEIBUS,Petroleum Coke Consumed by the Electric Power Sector in Trillion Btu,6.332,Trillion Btu
+657,2022-01,PCEIEUS,Petroleum Coke Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.647,Million Metric Tons of Carbon Dioxide
+658,2022-01,PCEIMUS,"Petroleum Coke Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Short Tons",221.437,Thousand Short Tons
+659,2022-01,PCEIZUS,Petroleum Coke Consumed by the Electric Power Sector in Thousand Barrels per Day,35.716,Thousand Barrels per Day
+660,2022-01,PCEKMUS,"Petroleum Coke Stocks, Electric Power Sector, End of Period in Thousand Short Tons",336.456,Thousand Short Tons
+661,2022-01,PCEPMUS,"Petroleum Coke Consumption for Electricity Generation, All Sectors in Thousand Short Tons",220.006,Thousand Short Tons
+662,2022-01,PCERDUS,"Average Cost of Petroleum Coke Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",4.32,"Dollars per Million Btu, Including Taxes"
+663,2022-01,PCICBUS,Petroleum Coke Consumed by the Industrial Sector in Trillion Btu,43.369,Trillion Btu
+664,2022-01,PCICEUS,Petroleum Coke Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,4.299,Million Metric Tons of Carbon Dioxide
+665,2022-01,PCICPUS,Petroleum Coke Consumed by the Industrial Sector in Thousand Barrels per Day,225.59,Thousand Barrels per Day
+666,2022-01,PCL1MUS,"Petroleum Coke Consumption for Electricity Generation, Electric Power Sector in Thousand Short Tons",209.757,Thousand Short Tons
+667,2022-01,PCNFBUS,Petroleum Coke Non-Combustion Consumption in Quadrillion Btu,0.00318,Quadrillion Btu
+668,2022-01,PCNFPUS,Petroleum Coke Non-Combustion Consumption in Thousand Barrels per Day,17.937,Thousand Barrels per Day
+669,2022-01,PCTCBUS,Petroleum Coke Product Supplied in Trillion Btu,49.76,Trillion Btu
+670,2022-01,PCTCEUS,Petroleum Coke CO2 Emissions in Million Metric Tons of Carbon Dioxide,4.952,Million Metric Tons of Carbon Dioxide
+671,2022-01,PCTCPUS,Petroleum Coke Product Supplied in Thousand Barrels per Day,261.642,Thousand Barrels per Day
+672,2022-01,PFNFBUS,Petrochemical Feedstocks Non-Combustion Consumption in Quadrillion Btu,0.051683,Quadrillion Btu
+673,2022-01,PFNFPUS,Petrochemical Feedstocks Non-Combustion Consumption in Thousand Barrels per Day,298.799,Thousand Barrels per Day
+674,2022-01,PMACBUS,Petroleum Consumed by the Transportation Sector (Excluding Biofuels) in Trillion Btu,1900.382,Trillion Btu
+675,2022-01,PMACEUS,"Petroleum, Excluding Biofuels, Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",136.296,Million Metric Tons of Carbon Dioxide
+676,2022-01,PMCCBUS,Petroleum Consumed by the Commercial Sector (Excluding Biofuels) in Trillion Btu,105.534,Trillion Btu
+677,2022-01,PMCCEUS,"Petroleum, Excluding Biofuels, Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",7.382,Million Metric Tons of Carbon Dioxide
+678,2022-01,PMEXBUS,"Total Petroleum, Excluding Biofuels, Exports in Quadrillion Btu",1393.915,Quadrillion Btu
+679,2022-01,PMICBUS,Petroleum Consumed by the Industrial Sector (Excluding Biofuels) in Trillion Btu,748.892,Trillion Btu
+680,2022-01,PMICEUS,"Petroleum, Excluding Biofuels, Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide",30.256,Million Metric Tons of Carbon Dioxide
+681,2022-01,PMIMBUS,"Total Petroleum, Excluding Biofuels, Imports in Quadrillion Btu",1497.228,Quadrillion Btu
+682,2022-01,PMNIBUS,"Total Petroleum, Excluding Biofuels, Net Imports in Quadrillion Btu",0.103313,Quadrillion Btu
+683,2022-01,PMTCBUS,Petroleum Consumption (Excluding Biofuels) in Quadrillion Btu,2948.404,Quadrillion Btu
+684,2022-01,PMTCEUS,"Petroleum, Excluding Biofuels, CO2 Emissions in Million Metric Tons of Carbon Dioxide",187.466,Million Metric Tons of Carbon Dioxide
+685,2022-01,PNPRPUS,Total Petroleum Field Production in Thousand Barrels per Day,16815.531,Thousand Barrels per Day
+686,2022-01,PQICBUS,Propane Consumed by the Industrial Sector in Trillion Btu,36.539,Trillion Btu
+687,2022-01,PQICPUS,Propane Consumed by the Industrial Sector in Thousand Barrels per Day,306.865,Thousand Barrels per Day
+688,2022-01,PQIMPUS,Propane Imports in Thousand Barrels per Day,164.323,Thousand Barrels per Day
+689,2022-01,PQPSPUS,Propane Stocks in Million Barrels,48.357,Million Barrels
+690,2022-01,PQROPUS,Propane Refinery and Blender Net Production in Thousand Barrels per Day,268.452,Thousand Barrels per Day
+691,2022-01,PQTCBUS,Propane Product Supplied in Trillion Btu,157.106,Trillion Btu
+692,2022-01,PQTCPUS,Propane Product Supplied in Thousand Barrels per Day,1319.43,Thousand Barrels per Day
+693,2022-01,PRTCUUS,Average Refiner Price of Propane (Consumer Grade) to End Users in Dollars per Gallon Excluding Taxes,1.225,Dollars per Gallon Excluding Taxes
+694,2022-01,PRWHUUS,Average Refiner Price of Propane (Consumer Grade) for Resale in Dollars per Gallon Excluding Taxes,1.249,Dollars per Gallon Excluding Taxes
+695,2022-01,PTEIPUS,"Total Petroleum Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Barrels",6141.907,Thousand Barrels
+696,2022-01,PUUCUUS,"Unleaded Premium Gasoline, U.S. City Average Retail Price in Dollars per Gallon Including Taxes",4.102,Dollars per Gallon Including Taxes
+697,2022-01,PYICBUS,Propylene Consumed by the Industrial Sector in Trillion Btu,35.428,Trillion Btu
+698,2022-01,PYICPUS,Propylene Consumed by the Industrial Sector in Thousand Barrels per Day,298,Thousand Barrels per Day
+699,2022-01,PYIMPUS,Propylene Imports in Thousand Barrels per Day,13.355,Thousand Barrels per Day
+700,2022-01,PYPSPUS,Propylene Stocks in Million Barrels,1.208,Million Barrels
+701,2022-01,PYROPUS,Propylene Refinery and Blender Net Production in Thousand Barrels per Day,278.548,Thousand Barrels per Day
+702,2022-01,PYTCBUS,Propylene Product Supplied in Trillion Btu,35.428,Trillion Btu
+703,2022-01,PYTCPUS,Propylene Product Supplied in Thousand Barrels per Day,298,Thousand Barrels per Day
+704,2022-01,PZEXPUS,Propane Exports in Thousand Barrels per Day,1341.538,Thousand Barrels per Day
+705,2022-01,PZICBUS,Propane/Propylene Consumed by the Industrial Sector in Trillion Btu,71.966,Trillion Btu
+706,2022-01,PZICPUS,Propane/Propylene Consumed by the Industrial Sector in Thousand Barrels per Day,604.865,Thousand Barrels per Day
+707,2022-01,PZIMPUS,Propane/Propylene Imports in Thousand Barrels per Day,177.677,Thousand Barrels per Day
+708,2022-01,PZPSPUS,Propane/Propylene Stocks in Million Barrels,49.565,Million Barrels
+709,2022-01,PZROPUS,Propane/Propylene Refinery and Blender Net Production in Thousand Barrels per Day,547,Thousand Barrels per Day
+710,2022-01,PZTCBUS,Propane/Propylene Product Supplied in Trillion Btu,192.534,Trillion Btu
+711,2022-01,PZTCPUS,Propane/Propylene Product Supplied in Thousand Barrels per Day,1617.43,Thousand Barrels per Day
+712,2022-01,RACPUUS,"Average Refiner Acquisition Cost of Crude Oil, Composite in Dollars per Barrel",80.19,Dollars per Barrel
+713,2022-01,RADMUUS,"Average Refiner Acquisition Cost of Crude Oil, Domestic in Dollars per Barrel",82.45,Dollars per Barrel
+714,2022-01,RAIMUUS,"Average Refiner Acquisition Cost of Crude Oil, Imported in Dollars per Barrel",76.93,Dollars per Barrel
+715,2022-01,RBTCUUS,"Average Refiner Price of Residual Fuel Oil, Sulfur Content Less Than or Equal to 1 Percent, Sales to End Users in Dollars per Gallon Excluding Taxes",2.342,Dollars per Gallon Excluding Taxes
+716,2022-01,RBWHUUS,"Average Refiner Price of Residual Fuel Oil, Sulfur Content Less Than or Equal to 1 Percent, Sales for Resale in Dollars per Gallon Excluding Taxes",2.21,Dollars per Gallon Excluding Taxes
+717,2022-01,RCRTUUS,"Regular Motor Gasoline, Conventional Gasoline Areas, Average Retail Price in Dollars per Gallon Including Taxes",3.187,Dollars per Gallon Including Taxes
+718,2022-01,REACBUS,Total Biomass Energy Consumed by the Transportation Sector in Trillion Btu,113.118,Trillion Btu
+719,2022-01,REC9PUS,"Renewable Energy Commercial Sector, Net Summer Capacity  in Million Kilowatts",1.458,Million Kilowatts
+720,2022-01,RECCBUS,Total Renewable Energy Consumed by the Commercial Sector in Trillion Btu,24.293,Trillion Btu
+721,2022-01,REEIBUS,Total Renewable Energy Consumed by the Electric Power Sector in Trillion Btu,688.364,Trillion Btu
+722,2022-01,REGBPUS,"Renewable Energy, Net Summer Capacity  in Million Kilowatts",291.246,Million Kilowatts
+723,2022-01,REI9PUS,"Renewable Energy Industrial Sector, Net Summer Capacity  in Million Kilowatts",5.886,Million Kilowatts
+724,2022-01,REICBUS,Total Renewable Energy Consumed by the Industrial Sector in Trillion Btu,201.776,Trillion Btu
+725,2022-01,REL9PUS,"Renewable Energy Electric Power Sector, Net Summer Capacity  in Million Kilowatts",283.902,Million Kilowatts
+726,2022-01,REPRBUS,Total Renewable Energy Production in Trillion Btu,1130.434,Trillion Btu
+727,2022-01,RERCBUS,Total Renewable Energy Consumed by the Residential Sector in Trillion Btu,66.681,Trillion Btu
+728,2022-01,RETCBUS,Total Renewable Energy Consumption in Trillion Btu,1094.232,Trillion Btu
+729,2022-01,RFACBUS,Residual Fuel Oil Consumed by the Transportation Sector in Trillion Btu,46.568,Trillion Btu
+730,2022-01,RFACEUS,Residual Fuel Oil Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,3.497,Million Metric Tons of Carbon Dioxide
+731,2022-01,RFACPUS,Residual Fuel Oil Consumed by the Transportation Sector in Thousand Barrels per Day,238.936,Thousand Barrels per Day
+732,2022-01,RFCCBUS,Residual Fuel Oil Consumed by the Commercial Sector in Trillion Btu,0.571,Trillion Btu
+733,2022-01,RFCCEUS,Residual Fuel Oil Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.043,Million Metric Tons of Carbon Dioxide
+734,2022-01,RFCCPUS,Residual Fuel Oil Consumed by the Commercial Sector in Thousand Barrels per Day,2.928,Thousand Barrels per Day
+735,2022-01,RFECPUS,"Residual Fuel Oil Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Thousand Barrels",2325.766,Thousand Barrels
+736,2022-01,RFEIBUS,Residual Fuel Oil Consumed by the Electric Power Sector in Trillion Btu,13.799,Trillion Btu
+737,2022-01,RFEIEUS,Residual Fuel Oil Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,1.036,Million Metric Tons of Carbon Dioxide
+738,2022-01,RFEIPUS,"Residual Fuel Oil Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Thousand Barrels",2194.768,Thousand Barrels
+739,2022-01,RFEIZUS,Residual Fuel Oil Consumed by the Electric Power Sector in Thousand Barrels per Day,70.799,Thousand Barrels per Day
+740,2022-01,RFEKPUS,"Residual Fuel Oil Stocks, Electric Power Sector, End of Period in Thousand Barrels",5968.322,Thousand Barrels
+741,2022-01,RFEPPUS,"Residual Fuel Oil Consumption for Electricity Generation, All Sectors in Thousand Barrels",2167.497,Thousand Barrels
+742,2022-01,RFERDUS,"Average Cost of Residual Fuel Receipts at Electric Generating Plants in Dollars per Million Btu, Including Taxes",15.63,"Dollars per Million Btu, Including Taxes"
+743,2022-01,RFEXPUS,Residual Fuel Oil Exports in Thousand Barrels per Day,80.028,Thousand Barrels per Day
+744,2022-01,RFICBUS,Residual Fuel Oil Consumed by the Industrial Sector in Trillion Btu,4.166,Trillion Btu
+745,2022-01,RFICEUS,Residual Fuel Oil Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,0.305,Million Metric Tons of Carbon Dioxide
+746,2022-01,RFICPUS,Residual Fuel Oil Consumed by the Industrial Sector in Thousand Barrels per Day,21.374,Thousand Barrels per Day
+747,2022-01,RFIMPUS,Residual Fuel Oil Imports in Thousand Barrels per Day,195.258,Thousand Barrels per Day
+748,2022-01,RFL1PUS,"Residual Fuel Oil Consumption for Electricity Generation, Electric Power Sector in Thousand Barrels",2151.71,Thousand Barrels
+749,2022-01,RFPSPUS,"Residual Fuel Oil Stocks, End of Period in Million Barrels",26.749,Million Barrels
+750,2022-01,RFROPUS,Residual Fuel Oil Refinery and Blender Net Production in Thousand Barrels per Day,262.677,Thousand Barrels per Day
+751,2022-01,RFTCBUS,Residual Fuel Oil Product Supplied in Trillion Btu,65.103,Trillion Btu
+752,2022-01,RFTCEUS,Residual Fuel Oil CO2 Emissions in Million Metric Tons of Carbon Dioxide,4.881,Million Metric Tons of Carbon Dioxide
+753,2022-01,RFTCPUS,Residual Fuel Oil Product Supplied in Thousand Barrels per Day,334.037,Thousand Barrels per Day
+754,2022-01,RFTCUUS,"Average Refiner Price of Residual Fuel Oil, Sales to End Users in Dollars per Gallon Excluding Taxes",2.16,Dollars per Gallon Excluding Taxes
+755,2022-01,RFWHUUS,"Average Refiner Price of Residual Fuel Oil, Sales for Resale in Dollars per Gallon Excluding Taxes",2.085,Dollars per Gallon Excluding Taxes
+756,2022-01,RLUCUUS,"Leaded Regular Gasoline, U.S. City Average Retail Price in Dollars per Gallon Including Taxes",Not Applicable,Dollars per Gallon Including Taxes
+757,2022-01,RMRTUUS,"Regular Motor Gasoline, All Areas, Average Retail Price in Dollars per Gallon Including Taxes",3.315,Dollars per Gallon Including Taxes
+758,2022-01,ROTCUUS,"Average Refiner Price of Residual Fuel Oil, Sulfur Content Greater Than 1 Percent, Sales to End Users in Dollars per Gallon Excluding Taxes",1.871,Dollars per Gallon Excluding Taxes
+759,2022-01,ROWHUUS,"Average Refiner Price of Residual Fuel Oil, Sulfur Content Greater Than 1 Percent, Sales for Resale in Dollars per Gallon Excluding Taxes",1.966,Dollars per Gallon Excluding Taxes
+760,2022-01,RQEXBUS,"Petroleum Products, Excluding Biofuels, Exports in Quadrillion Btu",799.891,Quadrillion Btu
+761,2022-01,RQIMBUS,"Petroleum Products, Excluding Biofuels, Imports in Quadrillion Btu",296.733,Quadrillion Btu
+762,2022-01,RQNIBUS,"Petroleum Products, Excluding Biofuels, Net Imports in Quadrillion Btu",-0.503159,Quadrillion Btu
+763,2022-01,RRRTUUS,"Regular Motor Gasoline, Reformulated Gasoline Areas, Average Retail Price in Dollars per Gallon Including Taxes",3.595,Dollars per Gallon Including Taxes
+764,2022-01,RUUCUUS,"Unleaded Regular Gasoline, U.S. City Average Retail Price in Dollars per Gallon Including Taxes",3.413,Dollars per Gallon Including Taxes
+765,2022-01,RYPRPUS,Biofuels Plant Net Production in Thousand Barrels per Day,1206.934,Thousand Barrels per Day
+766,2022-01,SNNFBUS,Special Naphthas Non-Combustion Consumption in Quadrillion Btu,0.006445,Quadrillion Btu
+767,2022-01,SNNFPUS,Special Naphthas Non-Combustion Consumption in Thousand Barrels per Day,39.613,Thousand Barrels per Day
+768,2022-01,SOC5BUS,Utility-Scale Solar Energy Consumption for Electricity: Commercial Sector in Trillion Btu,0.378,Trillion Btu
+769,2022-01,SOC5PUS,Utility-Scale Solar Electricity Net Generation: Commercial Sector in Million Kilowatthours,42.8,Million Kilowatthours
+770,2022-01,SOC7BUS,Small-Scale Solar Energy Consumption for Electricity: Commercial Sector in Trillion Btu,8.789,Trillion Btu
+771,2022-01,SOC7PUS,Small-Scale Solar Photovoltaic Generation: Commercial Sector in Million Kilowatthours,993.896,Million Kilowatthours
+772,2022-01,SOC9PUS,"Solar Commercial Sector, Net Summer Capacity in Million Kilowatts",0.413,Million Kilowatts
+773,2022-01,SOCCBUS,Solar Energy Consumed by the Commercial Sector in Trillion Btu,9.168,Trillion Btu
+774,2022-01,SODTBUS,Small-Scale Solar Energy Consumption: Total in Trillion Btu,33.069,Trillion Btu
+775,2022-01,SOEGBUS,Utility-Scale Solar Energy Consumption for Electricity:  Electric Power Sector  in Trillion Btu,71.638,Trillion Btu
+776,2022-01,SOEGPUS,Utility-Scale Solar Electricity Net Generation:  Electric Power Sector in Million Kilowatthours,8101.084,Million Kilowatthours
+777,2022-01,SOETPUS,"Electricity Net Generation From Solar, All Sectors in Million Kilowatthours",8158.237,Million Kilowatthours
+778,2022-01,SOGBPUS,"Solar, Net Summer Capacity  in Million Kilowatts",62.503,Million Kilowatts
+779,2022-01,SOI5BUS,Utility-Scale Solar Energy Consumption for Electricity: Industrial Sector in Trillion Btu,0.127,Trillion Btu
+780,2022-01,SOI5PUS,Utility-Scale Solar Electricity Net Generation: Industrial Sector in Million Kilowatthours,14.353,Million Kilowatthours
+781,2022-01,SOI7BUS,Small-Scale Solar Energy Consumption for Electricity: Industrial Sector in Trillion Btu,2.046,Trillion Btu
+782,2022-01,SOI7PUS,Small-Scale Solar Photovoltaic Generation: Industrial Sector in Million Kilowatthours,231.393,Million Kilowatthours
+783,2022-01,SOI9PUS,"Solar Industrial Sector, Net Summer Capacity in Million Kilowatts",0.128,Million Kilowatts
+784,2022-01,SOICBUS,Solar Energy Consumed by the Industrial Sector in Trillion Btu,2.173,Trillion Btu
+785,2022-01,SOL9PUS,"Solar Electric Power Sector, Net Summer Capacity in Million Kilowatts",61.962,Million Kilowatts
+786,2022-01,SOR7BUS,Small-Scale Solar Energy Consumption for Electricity: Residential Sector in Trillion Btu,18.585,Trillion Btu
+787,2022-01,SOR7PUS,Small-Scale Solar Photovoltaic Generation: Residential Sector in Million Kilowatthours,2101.664,Million Kilowatthours
+788,2022-01,SORCBUS,Solar Energy Consumed by the Residential Sector in Trillion Btu,22.233,Trillion Btu
+789,2022-01,SOT5BUS,Utility-Scale Solar Energy Consumption: Total in Trillion Btu,72.143,Trillion Btu
+790,2022-01,SOT5PUS,Utility-Scale Solar Electricity Net Generation:  Total in Million Kilowatthours,8158.237,Million Kilowatthours
+791,2022-01,SOT7BUS,Small-Scale Solar Energy Consumption for Electricity: Total in Trillion Btu,29.42,Trillion Btu
+792,2022-01,SOT7PUS,Small-Scale Solar Photovoltaic Generation: Total (All Sectors) in Million Kilowatthours,3326.953,Million Kilowatthours
+793,2022-01,SOT8BUS,Small-Scale Solar Energy Consumption for Heat: Total in Trillion Btu,3.648,Trillion Btu
+794,2022-01,SOTCBUS,Solar/PV Energy Consumption/Production in Trillion Btu,105.212,Trillion Btu
+795,2022-01,SOTEPUS,Solar Electricity Net Generation in Million Kilowatthours,11485.19,Million Kilowatthours
+796,2022-01,TEACBUS,Total Energy Consumed by the Transportation Sector in Trillion Btu,2161.424,Trillion Btu
+797,2022-01,TEACEUS,Total Energy Transportation Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,144.065,Million Metric Tons of Carbon Dioxide
+798,2022-01,TEAJBUS,Primary Energy Stock Change and Other in Quadrillion Btu,1328.048,Quadrillion Btu
+799,2022-01,TECCBUS,Total Energy Consumed by the Commercial Sector in Trillion Btu,1831.35,Trillion Btu
+800,2022-01,TECCEUS,Total Energy Commercial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,85.973,Million Metric Tons of Carbon Dioxide
+801,2022-01,TEEXBUS,Total Primary Energy Exports in Quadrillion Btu,2184.777,Quadrillion Btu
+802,2022-01,TEEXVUS,Energy Exports in Million Dollars,23206,Million Dollars
+803,2022-01,TEICBUS,Total Energy Consumed by the Industrial Sector in Trillion Btu,2885.336,Trillion Btu
+804,2022-01,TEICEUS,Total Industrial Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,125.087,Million Metric Tons of Carbon Dioxide
+805,2022-01,TEIMBUS,Total Primary Energy Imports in Quadrillion Btu,1832.778,Quadrillion Btu
+806,2022-01,TEIMVUS,Energy Imports in Million Dollars,21665,Million Dollars
+807,2022-01,TENFBUS,Total Fossil Fuels Non-Combustion Consumption in Quadrillion Btu,0.539569,Quadrillion Btu
+808,2022-01,TENFSUS,Total Fossil Fuels Non-Combustion Consumption Percent of Total Energy Consumption in Percent,5.7,Percent
+809,2022-01,TENIBUS,Total Primary Energy Net Imports in Quadrillion Btu,-351.999,Quadrillion Btu
+810,2022-01,TENIVUS,Energy Balance in Million Dollars,1541,Million Dollars
+811,2022-01,TEPRBUS,Total Primary Energy Production in Quadrillion Btu,8539.758,Quadrillion Btu
+812,2022-01,TERCBUS,Total Energy Consumed by the Residential Sector in Trillion Btu,2637.152,Trillion Btu
+813,2022-01,TERCEUS,Total Energy Residential Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,123.896,Million Metric Tons of Carbon Dioxide
+814,2022-01,TESSBUS,Total Energy Consumed by the End-Use-Sectors in Trillion Btu,9515.262,Trillion Btu
+815,2022-01,TETCBUS,Primary Energy Consumption Total in Trillion Btu,9515.807,Trillion Btu
+816,2022-01,TETCEUS,Total Energy CO2 Emissions in Million Metric Tons of Carbon Dioxide,479.021,Million Metric Tons of Carbon Dioxide
+817,2022-01,TETXBUS,Total Primary Energy Consumed by the End-Use Sectors in Trillion Btu,6132.555,Trillion Btu
+818,2022-01,TMEXVUS,Total Merchandise Exports in Million Dollars,147431,Million Dollars
+819,2022-01,TMIMVUS,Total Merchandise Imports in Million Dollars,247992,Million Dollars
+820,2022-01,TMNIVUS,Total Merchandise Balance in Million Dollars,-100561,Million Dollars
+821,2022-01,TNACBUS,End-Use Energy Consumed by the Transportation Sector in Trillion Btu,2157.687,Trillion Btu
+822,2022-01,TNCCBUS,End-Use Energy Consumed by the Commercial Sector in Trillion Btu,1088.061,Trillion Btu
+823,2022-01,TNICBUS,End-Use Energy Consumed by the Industrial Sector in Trillion Btu,2333.971,Trillion Btu
+824,2022-01,TNRCBUS,End-Use Energy Consumed by the Residential Sector in Trillion Btu,1703.48,Trillion Btu
+825,2022-01,TNTCBUS,End-Use Energy Consumed by the End-Use Sectors in Trillion Btu,7283.198,Trillion Btu
+826,2022-01,TXACBUS,Total Primary Energy Consumed by the Transportation Sector in Trillion Btu,2155.76,Trillion Btu
+827,2022-01,TXCCBUS,Total Primary Energy Consumed by the Commercial Sector in Trillion Btu,704.89,Trillion Btu
+828,2022-01,TXEIBUS,Total Primary Energy Consumed by the Electric Power Sector in Trillion Btu,3382.707,Trillion Btu
+829,2022-01,TXEIEUS,Total Energy Electric Power Sector CO2 Emissions in Million Metric Tons of Carbon Dioxide,144.411,Million Metric Tons of Carbon Dioxide
+830,2022-01,TXICBUS,Total Primary Energy Consumed by the Industrial Sector in Trillion Btu,2049.739,Trillion Btu
+831,2022-01,TXRCBUS,Total Primary Energy Consumed by the Residential Sector in Trillion Btu,1222.165,Trillion Btu
+832,2022-01,VTTWPUS,"Crude Oil, Natural Gas, and Dry Wells Drilled, Vertical Trajectory in Number",243,Number
+833,2022-01,WCDOPUS,Waste Coal Supplied in Thousand Short Tons,686.144,Thousand Short Tons
+834,2022-01,WDC9PUS,"Wood Commercial Sector, Net Summer Capacity in Million Kilowatts",0.137,Million Kilowatts
+835,2022-01,WDCCBUS,Wood Energy Consumed by the Commercial Sector in Trillion Btu,7.071,Trillion Btu
+836,2022-01,WDECBUS,"Wood Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Trillion Btu",97.076,Trillion Btu
+837,2022-01,WDEGPUS,"Electricity Net Generation From Wood, Electric Power Sector in Million Kilowatthours",998.85,Million Kilowatthours
+838,2022-01,WDEIBUS,"Wood Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Trillion Btu",16.529,Trillion Btu
+839,2022-01,WDEPBUS,"Wood Consumption for Electricity Generation, All Sectors in Trillion Btu",27.075,Trillion Btu
+840,2022-01,WDETPUS,"Electricity Net Generation From Wood, All Sectors in Million Kilowatthours",3089.118,Million Kilowatthours
+841,2022-01,WDGBPUS,"Wood, Net Summer Capacity in Million Kilowatts",7.923,Million Kilowatts
+842,2022-01,WDI1BUS,"Wood Consumption for Electricity Generation, Industrial Sector in Trillion Btu",13.059,Trillion Btu
+843,2022-01,WDI3BUS,"Wood Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Trillion Btu",80.164,Trillion Btu
+844,2022-01,WDI5PUS,"Electricity Net Generation From Wood, Industrial Sector in Million Kilowatthours",2074.846,Million Kilowatthours
+845,2022-01,WDI9PUS,"Wood Industrial Sector, Net Summer Capacity in Million Kilowatts",5.351,Million Kilowatts
+846,2022-01,WDICBUS,Wood Energy Consumed by the Industrial Sector in Trillion Btu,111.361,Trillion Btu
+847,2022-01,WDL1BUS,"Wood Consumption for Electricity Generation, Electric Power Sector in Trillion Btu",13.915,Trillion Btu
+848,2022-01,WDL9PUS,"Wood Electric Power Sector, Net Summer Capacity in Million Kilowatts",2.435,Million Kilowatts
+849,2022-01,WDPRBUS,Wood Energy Production in Trillion Btu,185.926,Trillion Btu
+850,2022-01,WDRCBUS,Wood Energy Consumed by the Residential Sector in Trillion Btu,41.084,Trillion Btu
+851,2022-01,WDTCBUS,Wood Energy Consumption in Trillion Btu,176.046,Trillion Btu
+852,2022-01,WDTCEUS,Wood CO2 Emissions in Million Metric Tons of Carbon Dioxide,16.513,Million Metric Tons of Carbon Dioxide
+853,2022-01,WSC1BUS,"Waste Consumption for Electricity Generation, Commercial Sector in Trillion Btu",2.442,Trillion Btu
+854,2022-01,WSC3BUS,"Waste Consumption for Electricity Generation and Useful Thermal Output, Commercial Sector in Trillion Btu",3.24,Trillion Btu
+855,2022-01,WSC5PUS,"Electricity Net Generation From Waste, Commercial Sector in Million Kilowatthours",181.458,Million Kilowatthours
+856,2022-01,WSC9PUS,"Waste Commercial Sector, Net Summer Capacity in Million Kilowatts",0.681,Million Kilowatts
+857,2022-01,WSCCBUS,Waste Energy Consumed by the Commercial Sector in Trillion Btu,3.24,Trillion Btu
+858,2022-01,WSECBUS,"Waste Consumption for Electricity Generation and Useful Thermal Output, All Sectors in Trillion Btu",26.337,Trillion Btu
+859,2022-01,WSEGPUS,"Electricity Net Generation From Waste, Electric Power Sector in Million Kilowatthours",1215.534,Million Kilowatthours
+860,2022-01,WSEIBUS,"Waste Consumption for Electricity Generation and Useful Thermal Output, Electric Power Sector in Trillion Btu",18.851,Trillion Btu
+861,2022-01,WSEPBUS,"Waste Consumption for Electricity Generation, All Sectors in Trillion Btu",20.044,Trillion Btu
+862,2022-01,WSETPUS,"Electricity Net Generation From Waste, All Sectors in Million Kilowatthours",1469.016,Million Kilowatthours
+863,2022-01,WSGBPUS,"Waste, Net Summer Capacity in Million Kilowatts",4.467,Million Kilowatts
+864,2022-01,WSI1BUS,"Waste Consumption for Electricity Generation, Industrial Sector in Trillion Btu",0.554,Trillion Btu
+865,2022-01,WSI3BUS,"Waste Consumption for Electricity Generation and Useful Thermal Output, Industrial Sector in Trillion Btu",4.247,Trillion Btu
+866,2022-01,WSI5PUS,"Electricity Net Generation From Waste, Industrial Sector in Million Kilowatthours",72.023,Million Kilowatthours
+867,2022-01,WSI9PUS,"Waste Industrial Sector, Net Summer Capacity in Million Kilowatts",0.136,Million Kilowatts
+868,2022-01,WSICBUS,Waste Energy Consumed by the Industrial Sector in Trillion Btu,14.481,Trillion Btu
+869,2022-01,WSL1BUS,"Waste Consumption for Electricity Generation, Electric Power Sector in Trillion Btu",17.048,Trillion Btu
+870,2022-01,WSL9PUS,"Waste Electric Power Sector, Net Summer Capacity in Million Kilowatts",3.65,Million Kilowatts
+871,2022-01,WSTCBUS,Waste Energy Consumption in Trillion Btu,36.571,Trillion Btu
+872,2022-01,WSTCEUS,Biomass Waste CO2 Emissions in Million Metric Tons of Carbon Dioxide,3.317,Million Metric Tons of Carbon Dioxide
+873,2022-01,WYC9PUS,"Wind Commercial Sector, Net Summer Capacity in Million Kilowatts",0.068,Million Kilowatts
+874,2022-01,WYCCBUS,Wind Energy Consumed by the Commercial Sector in Trillion Btu,0.152,Trillion Btu
+875,2022-01,WYEGBUS,Wind Energy Consumed by the Electric Power Sector in Trillion Btu,336.524,Trillion Btu
+876,2022-01,WYEGPUS,"Electricity Net Generation From Wind, Electric Power Sector in Million Kilowatthours",38055.403,Million Kilowatthours
+877,2022-01,WYETPUS,"Electricity Net Generation From Wind, All Sectors in Million Kilowatthours",38083.974,Million Kilowatthours
+878,2022-01,WYGBPUS,"Wind, Net Summer Capacity in Million Kilowatts",133.83,Million Kilowatts
+879,2022-01,WYI9PUS,"Wind Industrial Sector, Net Summer Capacity in Million Kilowatts",0.057,Million Kilowatts
+880,2022-01,WYICBUS,Wind Energy Consumed by the Industrial Sector in Trillion Btu,0.101,Trillion Btu
+881,2022-01,WYL9PUS,"Wind Electric Power Sector, Net Summer Capacity in Million Kilowatts",133.706,Million Kilowatts
+882,2022-01,WYTCBUS,Wind Energy Consumption/Production in Trillion Btu,336.777,Trillion Btu
+883,2022-01,ZWCDPC1,"Cooling Degree-Days, New England in Number",0,Number
+884,2022-01,ZWCDPC2,"Cooling Degree-Days, Middle Atlantic in Number",0,Number
+885,2022-01,ZWCDPC3,"Cooling Degree-Days, East North Central in Number",0,Number
+886,2022-01,ZWCDPC4,"Cooling Degree-Days, West North Central in Number",0,Number
+887,2022-01,ZWCDPC5,"Cooling Degree-Days, South Atlantic in Number",28,Number
+888,2022-01,ZWCDPC6,"Cooling Degree-Days, East South Central in Number",3,Number
+889,2022-01,ZWCDPC7,"Cooling Degree-Days, West South Central in Number",9,Number
+890,2022-01,ZWCDPC8,"Cooling Degree-Days, Mountain in Number",1,Number
+891,2022-01,ZWCDPC9,"Cooling Degree-Days, Pacific in Number",9,Number
+892,2022-01,ZWCDPUS,"Cooling Degree-Days, United States in Number",9,Number
+893,2022-01,ZWHDPC1,"Heating Degree-Days, New England in Number",1305,Number
+894,2022-01,ZWHDPC2,"Heating Degree-Days, Middle Atlantic in Number",1245,Number
+895,2022-01,ZWHDPC3,"Heating Degree-Days, East North Central in Number",1392,Number
+896,2022-01,ZWHDPC4,"Heating Degree-Days, West North Central in Number",1442,Number
+897,2022-01,ZWHDPC5,"Heating Degree-Days, South Atlantic in Number",644,Number
+898,2022-01,ZWHDPC6,"Heating Degree-Days, East South Central in Number",846,Number
+899,2022-01,ZWHDPC7,"Heating Degree-Days, West South Central in Number",580,Number
+900,2022-01,ZWHDPC8,"Heating Degree-Days, Mountain in Number",886,Number
+901,2022-01,ZWHDPC9,"Heating Degree-Days, Pacific in Number",536,Number
+902,2022-01,ZWHDPUS,"Heating Degree-Days, United States in Number",913,Number
