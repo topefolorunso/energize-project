@@ -14,13 +14,17 @@
 			"api_key": {
 				"type": "string",
 				"defaultValue": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+			},
+			"start": {
+				"type": "String",
+				"defaultValue": "monthname"
 			}
 		},
 		"annotations": [],
 		"type": "RestResource",
 		"typeProperties": {
 			"relativeUrl": {
-				"value": "&api_key=@dataset().api_key",
+				"value": "?frequency=monthly&start=dataset().start&end=dataset().start&api_key=dataset().api_key",
 				"type": "Expression"
 			}
 		},

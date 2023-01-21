@@ -40,7 +40,8 @@
 						"referenceName": "totalEnergyJSON",
 						"type": "DatasetReference",
 						"parameters": {
-							"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+							"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL",
+							"start": "monthname"
 						}
 					}
 				],
