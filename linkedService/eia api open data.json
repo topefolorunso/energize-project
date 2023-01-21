@@ -18,5 +18,6 @@
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
-	}
+	},
+	"month": "@{formatDateTime(utcNow(), 'yyyy-MM')}"
 }
