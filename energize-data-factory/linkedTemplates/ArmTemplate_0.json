@@ -29,20 +29,6 @@
 			"type": "Microsoft.DataFactory/factories/linkedServices",
 			"apiVersion": "2018-06-01",
 			"properties": {
-				"parameters": {
-					"frequency": {
-						"type": "string",
-						"defaultValue": "monthly"
-					},
-					"start": {
-						"type": "string",
-						"defaultValue": "month"
-					},
-					"end": {
-						"type": "string",
-						"defaultValue": "month"
-					}
-				},
 				"annotations": [],
 				"type": "RestService",
 				"typeProperties": {
@@ -109,24 +95,23 @@
 			"properties": {
 				"linkedServiceName": {
 					"referenceName": "eia api open data",
-					"type": "LinkedServiceReference",
-					"parameters": {
-						"frequency": "monthly",
-						"start": "month",
-						"end": "month"
-					}
+					"type": "LinkedServiceReference"
 				},
 				"parameters": {
 					"api_key": {
 						"type": "string",
 						"defaultValue": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+					},
+					"start": {
+						"type": "String",
+						"defaultValue": "monthname"
 					}
 				},
 				"annotations": [],
 				"type": "RestResource",
 				"typeProperties": {
 					"relativeUrl": {
-						"value": "&api_key=@dataset().api_key",
+						"value": "?frequency=monthly&start=dataset().start&end=dataset().start&api_key=dataset().api_key",
 						"type": "Expression"
 					}
 				},
@@ -180,7 +165,8 @@
 								"referenceName": "totalEnergyJSON",
 								"type": "DatasetReference",
 								"parameters": {
-									"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL"
+									"api_key": "b1g1YWmY1VVmeEBkSdJOt5F8vwqj3MtvoqqgmvsL",
+									"start": "monthname"
 								}
 							}
 						],
