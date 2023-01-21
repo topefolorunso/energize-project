@@ -19,7 +19,10 @@
 		"annotations": [],
 		"type": "RestResource",
 		"typeProperties": {
-			"relativeUrl": ""
+			"relativeUrl": {
+				"value": "&api_key=@dataset().api_key",
+				"type": "Expression"
+			}
 		},
 		"schema": []
 	}
